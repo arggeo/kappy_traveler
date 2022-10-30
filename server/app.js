@@ -3,6 +3,7 @@ const express = require('express');
 const app = express();
 
 const responseFormatter = require('./middlewares/response');
+const sightsRoutes = require('./routes/sights')
 
 const port = process.env.PORT;
 
@@ -16,6 +17,9 @@ app.use(responseFormatter);
 app.all('/', async (req, res) => {
    res.placeholder("Nothing to see here");
 });
+
+// serve sights route
+app.use('/sights' , sightsRoutes);
 
 // start listening for requests
 app.listen(port, () => {
