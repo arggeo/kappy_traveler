@@ -23,5 +23,9 @@
   "homepage": "https://github.com/arggeo/kappy_traveler#readme",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.11",
+    "nodemon": "^2.0.20"
   }
 }
