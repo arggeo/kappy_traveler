@@ -4,6 +4,8 @@ const app = express();
 
 const responseFormatter = require('./middlewares/response');
 
+const port = process.env.PORT;
+
 // support urlencoded data
 app.use(express.urlencoded({ extended: true }));
 
@@ -16,6 +18,6 @@ app.all('/', async (req, res) => {
 });
 
 // start listening for requests
-app.listen(3000, () => {
-   console.log('App running on port 3000...');
+app.listen(port, () => {
+   console.log(`App running on port ${port}...`);
 });
