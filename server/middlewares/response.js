@@ -3,7 +3,7 @@ const JsonResponse = require('../helpers/Response');
 /**
  * Middleware to format response object with additional functions
  * @param {Object} _ - The request object
- * @param {*} res - The response object
+ * @param {Object} res - The response object
  * @callback next
  */
 const responseFormatter = (_, res, next) => {
