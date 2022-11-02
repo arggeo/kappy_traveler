@@ -1,11 +1,18 @@
+// package imports
 require('dotenv').config();
 const express = require('express');
 const app = express();
+const mongoose = require('mongoose');
 
+// custom imports
 const responseFormatter = require('./middlewares/response');
-const sightsRoutes = require('./routes/sights')
+const sightsRoutes = require('./routes/sights');
 
+// constants & variables
 const port = process.env.PORT;
+
+// Connect to MongoDB
+// mongoose.connect(`${process.env.MONGO_USERNAME} ${process.env.MONGO_PASSWORD}`);
 
 // support urlencoded data
 app.use(express.urlencoded({ extended: true }));
@@ -14,7 +21,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(responseFormatter);
 
 // default route
-app.all('/', async (req, res) => {
+app.all('/', (req, res) => {
    res.placeholder("Nothing to see here");
 });
 
