@@ -31,9 +31,15 @@ const sightSchema = new Schema({
       }
    },
    nearbySights: [{
-      type: Schema.Types.ObjectId,
-      ref: 'Sight',
-      required: false
+      sightId: {
+         type: Schema.Types.ObjectId,
+         ref: 'Sight',
+         required: false
+      },
+      name: {
+         type: String,
+         required: True
+      }
    }],
    nearbyCoffeeShops: [String], // Will change once CoffeShop schema is available
    nearbyHospitals: [String]    // Will change once Hospital schema is available
