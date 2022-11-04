@@ -14,6 +14,17 @@ const port = process.env.PORT;
 // Connect to MongoDB
 // mongoose.connect(`${process.env.MONGO_USERNAME} ${process.env.MONGO_PASSWORD}`);
 
+var count_req = 0;
+const requests = [];
+
+app.use( (req,res,next) => {
+   console.log("route",req.route);
+   count_req++;
+   requests.push(req.route);
+
+   next();
+});
+
 // support urlencoded data
 app.use(express.urlencoded({ extended: true }));
 
