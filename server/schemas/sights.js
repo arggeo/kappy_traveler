@@ -2,6 +2,7 @@ const mongoose = requrire('mongoose');
 const Schema = mongoose.Schema;
 
 const sightSchema = new Schema({
+   _id: Schema.Types.ObjectId,
    name: {
       type: String,
       required: true,
@@ -18,9 +19,22 @@ const sightSchema = new Schema({
       type: String,
       required: true
    },
-   thumbnail: String,
    images: [String],
-   nearbySights: [this],
+   location: {
+      lat: {
+         type: Number,
+         required: true
+      },
+      long: {
+         type: Number,
+         required: true
+      }
+   },
+   nearbySights: [{
+      type: Schema.Types.ObjectId,
+      ref: 'Sight',
+      required: false
+   }],
    nearbyCoffeeShops: [String], // Will change once CoffeShop schema is available
    nearbyHospitals: [String]    // Will change once Hospital schema is available
 });
