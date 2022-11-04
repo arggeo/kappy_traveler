@@ -19,7 +19,20 @@ const sightSchema = new Schema({
       type: String,
       required: true
    },
-   images: [String],
+   images: [{
+      id: {
+         type: String,
+         required: true
+      },
+      serverId: {
+         type: String,
+         required: true
+      },
+      secret: {
+         type: String,
+         required: true
+      }
+   }],
    location: {
       lat: {
          type: Number,
