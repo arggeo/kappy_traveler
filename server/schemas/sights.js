@@ -58,7 +58,7 @@ const sightSchema = new Schema({
    },
    nearbyCoffeeShops: {
       type: [{
-         sightId: {
+         cafeId: {
             type: Schema.Types.ObjectId,
             ref: 'Cafe',
             required: true
@@ -72,7 +72,7 @@ const sightSchema = new Schema({
    },
    nearbyHospitals: {
       type: [{
-         sightId: {
+         hospitalId: {
             type: Schema.Types.ObjectId,
             ref: 'Hospital',
             required: true
