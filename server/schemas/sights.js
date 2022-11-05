@@ -43,19 +43,48 @@ const sightSchema = new Schema({
          required: true
       }
    },
-   nearbySights: [{
-      sightId: {
-         type: Schema.Types.ObjectId,
-         ref: 'Sight',
-         required: false
-      },
-      name: {
-         type: String,
-         required: True
-      }
-   }],
-   nearbyCoffeeShops: [String], // Will change once CoffeShop schema is available
-   nearbyHospitals: [String]    // Will change once Hospital schema is available
+   nearbySights: {
+      type: [{
+         sightId: {
+            type: Schema.Types.ObjectId,
+            ref: 'Sight',
+            required: true
+         },
+         name: {
+            type: String,
+            required: True
+         }
+      }],
+      required: false
+   },
+   nearbyCoffeeShops: {
+      type: [{
+         sightId: {
+            type: Schema.Types.ObjectId,
+            ref: 'Cafe',
+            required: true
+         },
+         name: {
+            type: String,
+            required: True
+         }
+      }],
+      required: false
+   },
+   nearbyHospitals: {
+      type: [{
+         sightId: {
+            type: Schema.Types.ObjectId,
+            ref: 'Hospital',
+            required: true
+         },
+         name: {
+            type: String,
+            required: True
+         }
+      }],
+      required: false
+   }
 });
 
 module.exports = sightSchema;
