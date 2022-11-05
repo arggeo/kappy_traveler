@@ -1,7 +1,6 @@
 const { Schema } = require('mongoose');
 
 const cafeSchema = new Schema({
-   _id: Schema.Types.ObjectId,
    place: {
       type: String,
       required: true

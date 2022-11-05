@@ -14,9 +14,6 @@ const dbConnect = require('./helpers/dbConnection');
 // constants & variables
 const port = process.env.PORT;
 
-// Connect to MongoDB
-dbConnect();
-
 // support urlencoded data
 app.use(express.urlencoded({ extended: true }));
 
@@ -31,7 +28,5 @@ app.all('/', (req, res) => {
 // serve sights route
 app.use('/sights', sightsRoutes);
 
-// start listening for requests
-app.listen(port, () => {
-   console.log(`App running on port ${port}...`);
-});
+// Connect to MongoDB
+dbConnect(app);
