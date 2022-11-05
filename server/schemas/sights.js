@@ -2,7 +2,6 @@ const mongoose = requrire('mongoose');
 const Schema = mongoose.Schema;
 
 const sightSchema = new Schema({
-   _id: Schema.Types.ObjectId,
    name: {
       type: String,
       required: true,
