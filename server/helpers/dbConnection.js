@@ -9,7 +9,7 @@ async function dbConnection(app){
     
     // Connection to DB & Error Handling Initial Database Connection
     try {
-        await mongoose.connect(dbURI)
+        //await mongoose.connect(dbURI)
         app.listen(process.env.PORT, () =>{
             console.log(`App running on port ${process.env.PORT}...`);
         })
