@@ -1,0 +1,16 @@
+/**
+ * Middleware to format response object with additional functions
+ * @param {Object} req - The request object
+ * @param {Object} res - The response object
+ * @callback next
+ */
+var count=0;
+const requests = [];
+
+const requestLog = (req, res, next) => {
+
+    
+   next();
+};
+
+module.exports = requestLog;
