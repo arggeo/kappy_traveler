@@ -8,16 +8,12 @@ const axios = require('axios');
 
 // custom imports
 const responseFormatter = require('./middlewares/response');
+const requestLogger = require('./middlewares/requestLog');
 const sightsRoutes = require('./routes/sights');
+const dbConnect = require('./helpers/dbConnection');
 
 // constants & variables
 const port = process.env.PORT;
-// const dbUser = process.env.MONGO_USERNAME;
-// const dbPass = process.env.MONGO_PASSWORD;
-// const DBUri = `mongodb+srv://${dbUser}:${dbPass}@cluster0.x56ri.mongodb.net/?retryWrites=true&w=majority`;
-
-// Connect to MongoDB
-// mongoose.connect(DBUri);
 
 // support urlencoded data
 app.use(express.urlencoded({ extended: true }));
@@ -25,6 +21,7 @@ app.use(express.urlencoded({ extended: true }));
 // additional functionality (shortcuts) on response object
 app.use(responseFormatter);
 
+app.use(requestLogger);
 // default route
 app.all('/', (req, res) => {
    res.placeholder("Nothing to see here");
@@ -33,7 +30,5 @@ app.all('/', (req, res) => {
 // serve sights route
 app.use('/sights', sightsRoutes);
 
-// start listening for requests
-app.listen(port, () => {
-   console.log(`App running on port ${port}...`);
-});
+// Connect to MongoDB
+dbConnect(app);

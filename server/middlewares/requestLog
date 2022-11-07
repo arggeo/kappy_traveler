@@ -1,0 +1,18 @@
+/**
+ * Middleware to log request
+ * @param {Object} req - The request object
+ * @param {Object} res - The response object
+ * @callback next
+ */
+var count = 0;
+const requests = [];
+
+const requestLog = (req, res, next) => {
+
+    console.log("route",req);
+    count++;
+    requests.push(req.route);
+    next();
+};
+
+module.exports = requestLog;
