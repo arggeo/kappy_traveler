@@ -7,10 +7,10 @@ const Search = require('../models/searches');
  * @callback next
  */
 const requestLogger = async (req, res, next) => {
-    const sightName = req.params.sightName?.toLowerCase();
+    const cityName = req.params.cityName?.toLowerCase();
 
     try {
-        const storedSearch = await Search.findOne({ place: sightName });
+        const storedSearch = await Search.findOne({ place: cityName });
         
         if (storedSearch) {
             storedSearch.count++;
@@ -19,13 +19,13 @@ const requestLogger = async (req, res, next) => {
         }
 
         await Search.create({
-            place: sightName,
+            place: cityName,
             count: 1
         });
+
+        next();
     } catch (e) {
         console.log(e);
-    } finally {
-        next();
     }
 };
 
