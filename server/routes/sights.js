@@ -3,14 +3,17 @@ const router = express.Router();
 
 const requestLogger = require('../middlewares/requestLogger');
 
-// Get sight based on id
+// mock data
+const singleSight = require('../mocks/singleSight.json');
+const topSights = require('../mocks/topSights.json');
+
+// Get sight based on cityName
 router.get('/:sightName', requestLogger, (req, res) => {
-    //const id = req.params.id;
-    res.error('Not found', 401);
+    res.ok(singleSight);
 });
 
 router.get('/', (req, res) => {
-    res.ok('It works');
+    res.ok(JSON.parse(topSights));
 });
 
 module.exports = router;
