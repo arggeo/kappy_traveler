@@ -4,7 +4,7 @@ const router = express.Router();
 const requestLogger = require('../middlewares/requestLogger');
 
 // Get sight based on id
-router.get('/:cityName', requestLogger, (req, res) => {
+router.get('/:sightName', requestLogger, (req, res) => {
     //const id = req.params.id;
     res.error('Not found', 401);
 });
