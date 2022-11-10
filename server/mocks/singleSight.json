@@ -1,0 +1,78 @@
+{
+   "name": "Parthenon",
+   "body": "The Parthenon is a former temple on the Athenian Acropolis, Greece, that was dedicated to the goddess Athena during the fifth century BC.Its decorative sculptures are considered some of the high points of Greek art, an enduring symbol of Ancient Greece, democracy and Western civilization.",
+   "excerpt": "The Parthenon is a former temple on the Athenian Acropolis, Greece, that was dedicated to the goddess Athena during the fifth century BC.",
+   "images": [
+      "https://live.staticflickr.com/3132/2926629628_09e6ed2c1e_c.jpg",
+      "https://live.staticflickr.com/3132/2926629628_09e6ed2c1e_c.jpg",
+      "https://live.staticflickr.com/3132/2926629628_09e6ed2c1e_c.jpg"
+   ],
+   "location": {
+      "lat": 37.97025,
+      "long": 23.72247
+   },
+   "nearbyCoffeeShops": [
+      {
+         "place": "...",
+         "name": "King",
+         "photoReference": "https://live.staticflickr.com/3132/2926629628_09e6ed2c1e_c.jpg",
+         "location": {
+            "lat": 37.97025,
+            "long": 23.72247
+         },
+         "address": "25th St Address",
+         "rating": 4,
+         "priceLevel": 2,
+         "types": [
+            "cafe"
+         ]
+      },
+      {
+         "place": "...",
+         "name": "Kong",
+         "photoReference": "https://live.staticflickr.com/3132/2926629628_09e6ed2c1e_c.jpg",
+         "location": {
+            "lat": 37.97025,
+            "long": 23.72247
+         },
+         "address": "25th St Address",
+         "rating": 4,
+         "priceLevel": 2,
+         "types": [
+            "cafe"
+         ]
+      }
+   ],
+   "nearbyHospitals": [
+      {
+         "place": "...",
+         "name": "General Hospital",
+         "photoReference": "https://live.staticflickr.com/3132/2926629628_09e6ed2c1e_c.jpg",
+         "location": {
+            "lat": 37.97025,
+            "long": 23.72247
+         },
+         "address": "25th St Address",
+         "rating": 4,
+         "priceLevel": 2,
+         "types": [
+            "hospital"
+         ]
+      },
+      {
+         "place": "...",
+         "name": "Army Hospital",
+         "photoReference": "https://live.staticflickr.com/3132/2926629628_09e6ed2c1e_c.jpg",
+         "location": {
+            "lat": 37.97025,
+            "long": 23.72247
+         },
+         "address": "26th St Address",
+         "rating": 4,
+         "priceLevel": 2,
+         "types": [
+            "hospital"
+         ]
+      }
+   ]
+}

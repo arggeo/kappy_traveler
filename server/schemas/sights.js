@@ -42,20 +42,6 @@ const sightSchema = new Schema({
          required: true
       }
    },
-   nearbySights: {
-      type: [{
-         sightId: {
-            type: Schema.Types.ObjectId,
-            ref: 'Sight',
-            required: true
-         },
-         name: {
-            type: String,
-            required: True
-         }
-      }],
-      required: false
-   },
    nearbyCoffeeShops: {
       type: [{
          cafeId: {
