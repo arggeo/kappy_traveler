@@ -8,6 +8,10 @@ RUN npm install
 
 COPY . .
 
-EXPOSE 3000
+ARG DEFAULT_PORT=80
+
+ENV PORT $DEFAULT_PORT
+
+EXPOSE $PORT
 
 CMD ["node", "app.js"]
