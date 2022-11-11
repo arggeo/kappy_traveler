@@ -21,6 +21,23 @@ router.get('/:cityName', requestLogger, async (req, res) => {
         const coordinates = responseLocation.data.results[0].geometry.location;
         //console.log(coordinates);
 
+        // Initialize the rest of the URLs 
+        const sightsFetchURL = `https://maps.googleapis.com/maps/api/place/textsearch/json?query=points+of+interest+in+${cityName}&key=${process.env.GOOGLE_MAPS_API_KEY}`;
+        const cafesFetchURL = `https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=${process.env.GOOGLE_MAPS_API_KEY}&keyword=${cityName}&location=${coordinates.lat},${coordinates.lng}&type=cafe&radius=5`;
+        const hospitalsFetchURL = `https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=${process.env.GOOGLE_MAPS_API_KEY}&keyword=${cityName}&location=${coordinates.lat},${coordinates.lng}&type=hospital&radius=50000`;
+
+        // Get nearby Sights
+        const responseSights = axios.get(sightsFetchURL);
+
+        // Get nearby Cafes
+        const responseCafes = axios.get(cafesFetchURL);
+
+        // Get nearby Hospitals
+        const responseHospitals = axios.get(hospitalsFetchURL);
+
+        const places = await Promise.all([responseSights, responseCafes, responseHospitals]);
+        //console.log(places);
+
         res.ok(singleSight);
     } catch (error) {
         console.log(error);
