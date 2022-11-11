@@ -22,10 +22,10 @@ const requestLogger = async (req, res, next) => {
             place: cityName,
             count: 1
         });
+
+        next();
     } catch (e) {
         console.log(e);
-    } finally {
-        next();
     }
 };
 
