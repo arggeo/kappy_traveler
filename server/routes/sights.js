@@ -4,40 +4,73 @@ const router = express.Router();
 const axios = require('axios');
 
 const requestLogger = require('../middlewares/requestLogger');
+const urlParser = require('../helpers/urlParser');
 
 // mock data
 const singleSight = require('../mocks/singleSight.json');
 const topSights = require('../mocks/topSights.json');
 
+const GOOGLE_MAPS_API_KEY = process.env.GOOGLE_MAPS_API_KEY;
+const FLICKR_API_KEY = process.env.FLICKR_API_KEY;
+
 // Get sight based on cityName
+// search for "drama" to find errors
+// save sight rating && total ratings
 router.get('/:cityName', requestLogger, async (req, res) => {
     // Constants & Variables
     const cityName = req.params.cityName;
-    const geocodingFetchURL = `https://maps.google.com/maps/api/geocode/json?address=${cityName}&key=${process.env.GOOGLE_MAPS_API_KEY}`;
     
     try {
-        // Get coordinates based on address using Google Maps API
-        const responseLocation = await axios.get(geocodingFetchURL);
-        const coordinates = responseLocation.data.results[0].geometry.location;
-        //console.log(coordinates);
+        // Get sigths
+        let sights = await getSights(cityName);
+        sights = sights.map(sight => {
+            return {
+                name: sight.name,
+                city: cityName,
+                location: sight.geometry.location,
+                avgRating: sight.rating,
+                totalRatings: sight.user_ratings_total
+            };
+        });
 
-        // Initialize the rest of the URLs 
-        const sightsFetchURL = `https://maps.googleapis.com/maps/api/place/textsearch/json?query=points+of+interest+in+${cityName}&key=${process.env.GOOGLE_MAPS_API_KEY}`;
-        const cafesFetchURL = `https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=${process.env.GOOGLE_MAPS_API_KEY}&keyword=${cityName}&location=${coordinates.lat},${coordinates.lng}&type=cafe&radius=5`;
-        const hospitalsFetchURL = `https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=${process.env.GOOGLE_MAPS_API_KEY}&keyword=${cityName}&location=${coordinates.lat},${coordinates.lng}&type=hospital&radius=50000`;
+        // Get cafes per sight
+        let sightsCafes = (await Promise.all(sights.map(sight => getCafes(cityName, sight.location.lat, sight.location.lng)))).map(sc => sc.data.results);
+        sightsCafes = sightsCafes.map(sightCafes => {
+            return sightCafes.map(sc => {
+                return {
+                    name: sc.name,
+                    placeId: sc.place_id,
+                    vicinity: sc.vicinity,
+                    rating: sc.rating,
+                    location: sc.geometry,
+                    priceLevel: sc.price_level
+                }
+            });
+        });
 
-        // Get nearby Sights
-        const responseSights = axios.get(sightsFetchURL);
+        // Get hospitals per sight
+        let sightsHospitals = (await Promise.all(sights.map(sight => getHospitals(cityName, sight.location.lat, sight.location.lng)))).map(sh => sh.data.results);
+        sightsHospitals = sightsHospitals.map(sightHospitals => {
+            return sightHospitals.map(sh => {
+                return {
+                    name: sh.name,
+                    placeId: sh.place_id,
+                    vicinity: sh.vicinity,
+                    rating: sh.rating,
+                    location: sh.geometry,
+                    priceLevel: sh.price_level
+                }
+            });
+        });
 
-        // Get nearby Cafes
-        const responseCafes = axios.get(cafesFetchURL);
+        // start preparing response
+        sights = sights.map((sight, idx) => {
+            sight.nearbyCoffeeShops = sightsCafes[idx];
+            sight.nearbyHospitals = sightsHospitals[idx];
+            return sight;
+        });
 
-        // Get nearby Hospitals
-        const responseHospitals = axios.get(hospitalsFetchURL);
-
-        const places = await Promise.all([responseSights, responseCafes, responseHospitals]);
-        //console.log(places);
-
+        // res.ok(sights);
         res.ok(singleSight);
     } catch (error) {
         console.log(error);
@@ -48,5 +81,21 @@ router.get('/:cityName', requestLogger, async (req, res) => {
 router.get('/', (req, res) => {
     res.ok(JSON.parse(topSights));
 });
+
+async function getSights(cityName) {
+    const sightsFetchURL = `https://maps.googleapis.com/maps/api/place/textsearch/json?query=tourist+attractions+in+${cityName}&key=${GOOGLE_MAPS_API_KEY}`;
+    const sightsResponse = await axios.get(sightsFetchURL);
+    return sightsResponse.data.results;
+}
+
+function getCafes(cityName, lat, lng) {
+    const cafesFetchURL = `https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=${GOOGLE_MAPS_API_KEY}&keyword=${cityName}&location=${lat},${lng}&type=cafe&radius=1000`;
+    return axios.get(cafesFetchURL);
+}
+
+function getHospitals(cityName, lat, lng) {
+    const hospitalsFetchURL = `https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=${GOOGLE_MAPS_API_KEY}&keyword=${cityName}&location=${lat},${lng}&type=hospital&radius=1500`;
+    return axios.get(hospitalsFetchURL);
+}
 
 module.exports = router;
