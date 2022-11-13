@@ -1,0 +1,4454 @@
+[
+   {
+      "name": "Roman Forum",
+      "city": "rome",
+      "location": {
+         "lat": 41.8924623,
+         "lng": 12.485325
+      },
+      "avgRating": 4.7,
+      "totalRatings": 113064,
+      "body": "The Roman Forum, also known by its Latin name Forum Romanum (Italian: Foro Romano), is a rectangular forum (plaza) surrounded by the ruins of several important ancient government buildings at the center of the city of Rome. Citizens of the ancient city referred to this space, originally a marketplace, as the Forum Magnum, or simply the Forum.\nFor centuries the Forum was the center of day-to-day life in Rome: the site of triumphal processions and elections; the venue for public speeches, criminal trials, and gladiatorial matches; and the nucleus of commercial affairs. Here statues and monuments commemorated the city's great men. The teeming heart of ancient Rome, it has been called the most celebrated meeting place in the world, and in all history. Located in the small valley between the Palatine and Capitoline Hills, the Forum today is a sprawling ruin of architectural fragments and intermittent archaeological excavations attracting 4.5 million or more sightseers yearly.Many of the oldest and most important structures of the ancient city were located on or near the Forum. The Roman Kingdom's earliest shrines and temples were located on the southeastern edge. These included the ancient former royal residence, the Regia (8th century BC), and the Temple of Vesta (7th century BC), as well as the surrounding complex of the Vestal Virgins, all of which were rebuilt after the rise of imperial Rome.\nOther archaic shrines to the northwest, such as the Umbilicus Urbis and the Vulcanal (Shrine of Vulcan), developed into the Republic's formal Comitium (assembly area). This is where the Senate—as well as Republican government itself—began. The Senate House, government offices, tribunals, temples, memorials and statues gradually cluttered the area.\nOver time the archaic Comitium was replaced by the larger adjacent Forum and the focus of judicial activity moved to the new Basilica Aemilia (179 BC). Some 130 years later, Julius Caesar built the Basilica Julia, along with the new Curia Julia, refocusing both the judicial offices and the Senate itself. This new Forum, in what proved to be its final form, then served as a revitalized city square where the people of Rome could gather for commercial, political, judicial and religious pursuits in ever greater numbers.\nEventually, much economic and judicial business would transfer away from the Forum Romanum to the larger and more extravagant structures (Trajan's Forum and the Basilica Ulpia) to the north. The reign of Constantine the Great saw the construction of the last major expansion of the Forum complex—the Basilica of Maxentius (312 AD). This returned the political center to the Forum until the fall of the Western Roman Empire almost two centuries later.",
+      "excerpt": "The Roman Forum, also known by its Latin name Forum Romanum (Italian: Foro Romano), is a rectangular forum (plaza) surrounded by the ruins of several important ancient government buildings at the cent...",
+      "images": [
+         "https://live.staticflickr.com/65535/52494025862_46c7f19cbf.jpg",
+         "https://live.staticflickr.com/65535/52494981345_e4c7061acb.jpg",
+         "https://live.staticflickr.com/65535/52494790914_d2b533425a.jpg",
+         "https://live.staticflickr.com/65535/52483586478_4ed62027c8.jpg",
+         "https://live.staticflickr.com/65535/52482541102_6f211a8816.jpg",
+         "https://live.staticflickr.com/65535/52483037111_ac5771aa2c.jpg",
+         "https://live.staticflickr.com/65535/52481577325_b17670fb0e.jpg",
+         "https://live.staticflickr.com/65535/52481336120_ec8eb5f79d.jpg",
+         "https://live.staticflickr.com/65535/52481145814_5db2349cbc.jpg",
+         "https://live.staticflickr.com/65535/52481042784_0188668753.jpg"
+      ],
+      "nearbyCoffeeShops": [
+         {
+            "name": "Caffè Roma",
+            "placeId": "ChIJz6eMf99hLxMRObJtGFSS1PY",
+            "vicinity": "Via del Colosseo, 31, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.891608,
+               "lng": 12.4909512
+            }
+         },
+         {
+            "name": "La Casa del Caffè Tazza d'Oro",
+            "placeId": "ChIJxY4y7lFgLxMRTCTRu-sodxk",
+            "vicinity": "Via degli Orfani, 84, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.899434,
+               "lng": 12.477407
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Roma Antica Enoteca",
+            "placeId": "ChIJXeytyrJhLxMRI-JDY4MDewg",
+            "vicinity": "Via di S. Eufemia, 5, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.896869,
+               "lng": 12.4839637
+            }
+         },
+         {
+            "name": "Roscioli Caffè Pasticceria",
+            "placeId": "ChIJZ846zUhgLxMRzdyZ615Fc4Q",
+            "vicinity": "Piazza Benedetto Cairoli, 16, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.8941457,
+               "lng": 12.4744403
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Sant' Eustachio Il Caffè",
+            "placeId": "ChIJF4C_0k9gLxMR2LL_-I4HSWU",
+            "vicinity": "Piazza di S. Eustachio, 82, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.8982901,
+               "lng": 12.475425
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJQxlbiExgLxMRdWOCUgmo--w",
+            "vicinity": "Piazza d'Aracoeli, 4, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.8941698,
+               "lng": 12.4811866
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Caffe Roma Gelateria",
+            "placeId": "ChIJceRhY1NhLxMRsgrGB0itNUE",
+            "vicinity": "Piazza di Trevi, 99, Roma",
+            "rating": 2,
+            "location": {
+               "lat": 41.900787,
+               "lng": 12.4830152
+            }
+         },
+         {
+            "name": "Trecaffè",
+            "placeId": "ChIJ0676XKthLxMRih_hbyWnTQ8",
+            "vicinity": "Via dei Due Macelli, 107, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.9033525,
+               "lng": 12.4851436
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Riccardo Taliani Banqueting",
+            "placeId": "ChIJQaU7U65hLxMRwxctNcoy-b4",
+            "vicinity": "Via Genova, 26, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.8992618,
+               "lng": 12.4922702
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Gran Caffè Rione VIII",
+            "placeId": "ChIJ-7RwMElgLxMRzDJygOyOtrE",
+            "vicinity": "Via di S. Maria del Pianto, 59, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.893531,
+               "lng": 12.4761652
+            }
+         },
+         {
+            "name": "Zer0ttoNove Café et Caffé",
+            "placeId": "ChIJndKYLU5gLxMR2zFpIIyu3Q8",
+            "vicinity": "Piazza di S. Eustachio, 50, Roma",
+            "rating": 3.9,
+            "location": {
+               "lat": 41.8984431,
+               "lng": 12.4755229
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "La Licata",
+            "placeId": "ChIJYROAc7FhLxMRPuswi72QEBw",
+            "vicinity": "Via dei Serpenti, 165, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8946536,
+               "lng": 12.4909007
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Gran Caffè La Caffettiera",
+            "placeId": "ChIJJbK-PVJgLxMRM1dzchSlMj4",
+            "vicinity": "P.za di Pietra, 65, Roma",
+            "rating": 4,
+            "location": {
+               "lat": 41.9000741,
+               "lng": 12.4799216
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Oppio Caffè",
+            "placeId": "ChIJi9ogJLdhLxMROU38IYwpdzM",
+            "vicinity": "Via delle Terme di Tito, 72, Roma",
+            "rating": 3.5,
+            "location": {
+               "lat": 41.8914488,
+               "lng": 12.4928378
+            },
+            "priceLevel": 2
+         }
+      ],
+      "nearbyHospitals": [
+         {
+            "name": "San Giovanni Addolorata Hospital",
+            "placeId": "ChIJu2EuvcBhLxMRKtAx3I4PLl0",
+            "vicinity": "Via dell'Amba Aradam, 8, Roma",
+            "rating": 3.1,
+            "location": {
+               "lat": 41.885814,
+               "lng": 12.5022441
+            }
+         },
+         {
+            "name": "Fatebenefratelli Isola Tiberina",
+            "placeId": "ChIJcVd2wzlgLxMRzPlKO7ImW3k",
+            "vicinity": "Via di Ponte Quattro capi, 39, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8908802,
+               "lng": 12.4769801
+            }
+         },
+         {
+            "name": "Ospedale Nuovo Regina Margherita",
+            "placeId": "ChIJpwSU-qRhLxMR8cousDNGw1w",
+            "vicinity": "Viale di Trastevere, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.885921,
+               "lng": 12.4707913
+            }
+         },
+         {
+            "name": "Presidio Nuovo Regina Margherita",
+            "placeId": "ChIJWR2rnjlgLxMROzDwQnffICo",
+            "vicinity": "Via Roma Libera, 76, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.88615799999999,
+               "lng": 12.4695537
+            }
+         },
+         {
+            "name": "Presidio croce rossa italiana \"Villa Maraini\"",
+            "placeId": "ChIJbQSu9LJhLxMRdkFH_SW2IN4",
+            "vicinity": "Via Giovanni Giolitti, 46, Roma",
+            "rating": 0,
+            "location": {
+               "lat": 41.9006169,
+               "lng": 12.500693
+            }
+         },
+         {
+            "name": "Ospedale delle Donne",
+            "placeId": "ChIJ4QYCkVNhLxMRwsaUVCXDRTQ",
+            "vicinity": "P.za di S. Giovanni in Laterano, 74, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8873003,
+               "lng": 12.5037861
+            }
+         }
+      ]
+   },
+   {
+      "name": "Colosseum",
+      "city": "rome",
+      "location": {
+         "lat": 41.8902102,
+         "lng": 12.4922309
+      },
+      "avgRating": 4.7,
+      "totalRatings": 319639,
+      "body": "The Colosseum ( KOL-ə-SEE-əm; Italian: Colosseo [kolosˈsɛːo]) is an oval amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world today, despite its age. Construction began under the emperor Vespasian (r. 69–79 AD) in 72 and was completed in 80 AD under his successor and heir, Titus (r. 79–81). Further modifications were made during the reign of Domitian (r. 81–96). The three emperors that were patrons of the work are known as the Flavian dynasty, and the amphitheatre was named the Flavian Amphitheatre (Latin: Amphitheatrum Flavium; Italian: Anfiteatro Flavio [aɱfiteˈaːtro ˈflaːvjo]) by later classicists and archaeologists for its association with their family name (Flavius).\nThe Colosseum is built of travertine limestone, tuff (volcanic rock), and brick-faced concrete. It could hold an estimated 50,000 to 80,000 spectators at various points in its history, having an average audience of some 65,000; it was used for gladiatorial contests and public spectacles including animal hunts, executions, re-enactments of famous battles, and dramas based on Roman mythology, and briefly mock sea battles. The building ceased to be used for entertainment in the early medieval era. It was later reused for such purposes as housing, workshops, quarters for a religious order, a fortress, a quarry, and a Christian shrine.\nAlthough substantially ruined by earthquakes and stone robbers taking spolia, the Colosseum is still an iconic symbol of Imperial Rome and was listed as one of the New 7 Wonders of the World. It is one of Rome's most popular tourist attractions and also has links to the Roman Catholic Church, as each Good Friday the Pope leads a torchlit \"Way of the Cross\" procession that starts in the area around the Colosseum.  The Colosseum is depicted on the Italian version of the five-cent euro coin.",
+      "excerpt": "The Colosseum ( KOL-ə-SEE-əm; Italian: Colosseo [kolosˈsɛːo]) is an oval amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre eve...",
+      "images": [
+         "https://live.staticflickr.com/65535/52495062878_111e0bae11.jpg",
+         "https://live.staticflickr.com/65535/52493518927_420bc0279d.jpg",
+         "https://live.staticflickr.com/65535/52490671309_25e6a27177.jpg",
+         "https://live.staticflickr.com/65535/52486872384_ace5b88c48.jpg",
+         "https://live.staticflickr.com/65535/52485531407_0be1bc3b06.jpg",
+         "https://live.staticflickr.com/65535/52483507465_721f21db4e.jpg",
+         "https://live.staticflickr.com/65535/52483507100_7c6c00347d.jpg",
+         "https://live.staticflickr.com/65535/52483040326_fbdb5eee26.jpg",
+         "https://live.staticflickr.com/65535/52483585438_d8a2691121.jpg",
+         "https://live.staticflickr.com/65535/52481572449_065192b78d.jpg"
+      ],
+      "nearbyCoffeeShops": [
+         {
+            "name": "Caffè Roma",
+            "placeId": "ChIJz6eMf99hLxMRObJtGFSS1PY",
+            "vicinity": "Via del Colosseo, 31, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.891608,
+               "lng": 12.4909512
+            }
+         },
+         {
+            "name": "La Casa del Caffè Tazza d'Oro",
+            "placeId": "ChIJxY4y7lFgLxMRTCTRu-sodxk",
+            "vicinity": "Via degli Orfani, 84, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.899434,
+               "lng": 12.477407
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Roma Antica Enoteca",
+            "placeId": "ChIJXeytyrJhLxMRI-JDY4MDewg",
+            "vicinity": "Via di S. Eufemia, 5, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.896869,
+               "lng": 12.4839637
+            }
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJQxlbiExgLxMRdWOCUgmo--w",
+            "vicinity": "Piazza d'Aracoeli, 4, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.8941698,
+               "lng": 12.4811866
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Caffe Roma Gelateria",
+            "placeId": "ChIJceRhY1NhLxMRsgrGB0itNUE",
+            "vicinity": "Piazza di Trevi, 99, Roma",
+            "rating": 2,
+            "location": {
+               "lat": 41.900787,
+               "lng": 12.4830152
+            }
+         },
+         {
+            "name": "Riccardo Taliani Banqueting",
+            "placeId": "ChIJQaU7U65hLxMRwxctNcoy-b4",
+            "vicinity": "Via Genova, 26, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.8992618,
+               "lng": 12.4922702
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Laterano Caffè",
+            "placeId": "ChIJ8RaPvr9hLxMRl23iJm_7RD0",
+            "vicinity": "P.za di S. Giovanni in Laterano, 52, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8873857,
+               "lng": 12.5051198
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "La Licata",
+            "placeId": "ChIJYROAc7FhLxMRPuswi72QEBw",
+            "vicinity": "Via dei Serpenti, 165, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8946536,
+               "lng": 12.4909007
+            },
+            "priceLevel": 1
+         }
+      ],
+      "nearbyHospitals": [
+         {
+            "name": "San Giovanni Addolorata Hospital",
+            "placeId": "ChIJu2EuvcBhLxMRKtAx3I4PLl0",
+            "vicinity": "Via dell'Amba Aradam, 8, Roma",
+            "rating": 3.1,
+            "location": {
+               "lat": 41.885814,
+               "lng": 12.5022441
+            }
+         },
+         {
+            "name": "Fatebenefratelli Isola Tiberina",
+            "placeId": "ChIJcVd2wzlgLxMRzPlKO7ImW3k",
+            "vicinity": "Via di Ponte Quattro capi, 39, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8908802,
+               "lng": 12.4769801
+            }
+         },
+         {
+            "name": "Ospedale delle Donne",
+            "placeId": "ChIJ4QYCkVNhLxMRwsaUVCXDRTQ",
+            "vicinity": "P.za di S. Giovanni in Laterano, 74, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8873003,
+               "lng": 12.5037861
+            }
+         },
+         {
+            "name": "Celio Military Hospital",
+            "placeId": "ChIJA3S6-cdhLxMRg1hkjU-Oh_M",
+            "vicinity": "Piazza Celimontana, 50, Roma",
+            "rating": 3.5,
+            "location": {
+               "lat": 41.8867943,
+               "lng": 12.4960844
+            }
+         }
+      ]
+   },
+   {
+      "name": "Piazza Navona",
+      "city": "rome",
+      "location": {
+         "lat": 41.8991633,
+         "lng": 12.4730742
+      },
+      "avgRating": 4.7,
+      "totalRatings": 152914,
+      "body": "Piazza Navona (pronounced [ˈpjattsa naˈvoːna]) is a public open space in Rome, Italy. It is built on the site of the Stadium of Domitian, built in the 1st century AD, and follows the form of the open space of the stadium. The ancient Romans went there to watch the agones (\"games\"), and hence it was known as \"Circus Agonalis\" (\"competition arena\"). It is believed that over time the name changed to in avone to navone and eventually to navona.",
+      "excerpt": "Piazza Navona (pronounced [ˈpjattsa naˈvoːna]) is a public open space in Rome, Italy. It is built on the site of the Stadium of Domitian, built in the 1st century AD, and follows the form of the open ...",
+      "images": [
+         "https://live.staticflickr.com/65535/52482548917_04a8745c19.jpg",
+         "https://live.staticflickr.com/65535/52483593068_600fbe024e.jpg",
+         "https://live.staticflickr.com/65535/52483045641_2f7464c5f5.jpg",
+         "https://live.staticflickr.com/65535/52482548237_f172ce0870.jpg",
+         "https://live.staticflickr.com/65535/52483591473_00e9bba8be.jpg",
+         "https://live.staticflickr.com/65535/52482544587_845ecb748d.jpg",
+         "https://live.staticflickr.com/65535/52482541347_40f31c79ef.jpg",
+         "https://live.staticflickr.com/65535/52483499330_9643657f5b.jpg",
+         "https://live.staticflickr.com/65535/52483307609_8ecbc6339e.jpg",
+         "https://live.staticflickr.com/65535/52474662936_2f10cd5fd6.jpg"
+      ],
+      "nearbyCoffeeShops": [
+         {
+            "name": "La Casa del Caffè Tazza d'Oro",
+            "placeId": "ChIJxY4y7lFgLxMRTCTRu-sodxk",
+            "vicinity": "Via degli Orfani, 84, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.899434,
+               "lng": 12.477407
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Roma Antica Enoteca",
+            "placeId": "ChIJXeytyrJhLxMRI-JDY4MDewg",
+            "vicinity": "Via di S. Eufemia, 5, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.896869,
+               "lng": 12.4839637
+            }
+         },
+         {
+            "name": "Sant' Eustachio Il Caffè",
+            "placeId": "ChIJF4C_0k9gLxMR2LL_-I4HSWU",
+            "vicinity": "Piazza di S. Eustachio, 82, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.8982901,
+               "lng": 12.475425
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Roscioli Caffè Pasticceria",
+            "placeId": "ChIJZ846zUhgLxMRzdyZ615Fc4Q",
+            "vicinity": "Piazza Benedetto Cairoli, 16, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.8941457,
+               "lng": 12.4744403
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Antico Caffè Greco",
+            "placeId": "ChIJ2d0BD1VgLxMRNdZSWGk2gXQ",
+            "vicinity": "Via dei Condotti, 86, Roma",
+            "rating": 4,
+            "location": {
+               "lat": 41.9055606,
+               "lng": 12.4814639
+            },
+            "priceLevel": 4
+         },
+         {
+            "name": "Caffè Portofino",
+            "placeId": "ChIJI2YIy1hgLxMRkfL88yosIdM",
+            "vicinity": "Piazza Cola di Rienzo, 116, Roma",
+            "rating": 4.3,
+            "location": {
+               "lat": 41.9081313,
+               "lng": 12.4670268
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Trecaffè",
+            "placeId": "ChIJ0676XKthLxMRih_hbyWnTQ8",
+            "vicinity": "Via dei Due Macelli, 107, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.9033525,
+               "lng": 12.4851436
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Sciascia Caffè 1919",
+            "placeId": "ChIJyWu_8V9gLxMRsSDBJJjdf_g",
+            "vicinity": "Via Fabio Massimo, n.80/a, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.909859,
+               "lng": 12.461994
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJQxlbiExgLxMRdWOCUgmo--w",
+            "vicinity": "Piazza d'Aracoeli, 4, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.8941698,
+               "lng": 12.4811866
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Caffè Lembo",
+            "placeId": "ChIJMRc24qphLxMRJYbkNpVhVps",
+            "vicinity": "Via Francesco Crispi, 95, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.9053694,
+               "lng": 12.4857751
+            }
+         },
+         {
+            "name": "Gran Caffè Rione VIII",
+            "placeId": "ChIJ-7RwMElgLxMRzDJygOyOtrE",
+            "vicinity": "Via di S. Maria del Pianto, 59, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.893531,
+               "lng": 12.4761652
+            }
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJGwCOTKphLxMR1WpJpK83nFI",
+            "vicinity": "Via Vittorio Veneto, 24, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.9048986,
+               "lng": 12.4878697
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "McCafé",
+            "placeId": "ChIJoYTJz1RgLxMRhGnbhN6HH-Q",
+            "vicinity": "Piazza di Spagna, 46, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9047271,
+               "lng": 12.4834821
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffe Roma Gelateria",
+            "placeId": "ChIJceRhY1NhLxMRsgrGB0itNUE",
+            "vicinity": "Piazza di Trevi, 99, Roma",
+            "rating": 2,
+            "location": {
+               "lat": 41.900787,
+               "lng": 12.4830152
+            }
+         },
+         {
+            "name": "Zer0ttoNove Café et Caffé",
+            "placeId": "ChIJndKYLU5gLxMR2zFpIIyu3Q8",
+            "vicinity": "Piazza di S. Eustachio, 50, Roma",
+            "rating": 3.9,
+            "location": {
+               "lat": 41.8984431,
+               "lng": 12.4755229
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Settimiano di Mella Valter e C. S.a.s.",
+            "placeId": "ChIJfVsyJEdgLxMR4nUqnExOMJM",
+            "vicinity": "Via di Porta Settimiana, 1, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.8920614,
+               "lng": 12.4676232
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Opere & Caffé",
+            "placeId": "ChIJKUB51klgLxMRqjKvjwAJH-M",
+            "vicinity": "Via della Lungaretta, 18, Roma",
+            "rating": 4.3,
+            "location": {
+               "lat": 41.8893277,
+               "lng": 12.4757025
+            }
+         }
+      ],
+      "nearbyHospitals": [
+         {
+            "name": "Fatebenefratelli Isola Tiberina",
+            "placeId": "ChIJcVd2wzlgLxMRzPlKO7ImW3k",
+            "vicinity": "Via di Ponte Quattro capi, 39, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8908802,
+               "lng": 12.4769801
+            }
+         },
+         {
+            "name": "Santo Spirito In Sassia Hospital",
+            "placeId": "ChIJsd__OV1gLxMRzh_Ep1m_LPU",
+            "vicinity": "Lungotevere in Sassia, 1, Roma",
+            "rating": 3.6,
+            "location": {
+               "lat": 41.9009578,
+               "lng": 12.4622703
+            }
+         },
+         {
+            "name": "Ospedale Nuovo Regina Margherita",
+            "placeId": "ChIJpwSU-qRhLxMR8cousDNGw1w",
+            "vicinity": "Viale di Trastevere, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.885921,
+               "lng": 12.4707913
+            }
+         },
+         {
+            "name": "Ospedale",
+            "placeId": "ChIJPbL-ABFhLxMRxLxA8C1eOuA",
+            "vicinity": "Piazza di Sant'Onofrio, 4, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.8968303,
+               "lng": 12.4608206
+            }
+         },
+         {
+            "name": "Bambino Gesù Children's Hospital",
+            "placeId": "ChIJDY8LeUJgLxMR1VdZtjuE6m4",
+            "vicinity": "Piazza di Sant'Onofrio, 4, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8967164,
+               "lng": 12.4609553
+            }
+         },
+         {
+            "name": "Presidio Nuovo Regina Margherita",
+            "placeId": "ChIJWR2rnjlgLxMROzDwQnffICo",
+            "vicinity": "Via Roma Libera, 76, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.88615799999999,
+               "lng": 12.4695537
+            }
+         },
+         {
+            "name": "Ospedale Del Vaticano",
+            "placeId": "ChIJk_ILcq5hLxMRTXC9NUimsXM",
+            "vicinity": "Via della Conciliazione, 8, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9025937,
+               "lng": 12.4627176
+            }
+         }
+      ]
+   },
+   {
+      "name": "Piazza del Popolo",
+      "city": "rome",
+      "location": {
+         "lat": 41.9107038,
+         "lng": 12.4763579
+      },
+      "avgRating": 4.6,
+      "totalRatings": 86860,
+      "body": "Piazza del Popolo is a large urban square in Rome. The name in modern Italian literally means \"People's Square\", but historically it derives from the poplars (populus in Latin, pioppo in Italian) after which the church of Santa Maria del Popolo, in the northeast corner of the piazza, takes its name.\nThe piazza lies inside the northern gate in the Aurelian Walls, once the Porta Flaminia of ancient Rome, and now called the Porta del Popolo. This was the starting point of the Via Flaminia, the road to Ariminum (modern-day Rimini) and the most important route to the north. At the same time, before the age of railroads, it was the traveller's first view of Rome upon arrival. For centuries, the Piazza del Popolo was a place for public executions, the last of which took place in 1826.",
+      "excerpt": "Piazza del Popolo is a large urban square in Rome. The name in modern Italian literally means \"People's Square\", but historically it derives from the poplars (populus in Latin, pioppo in Italian) afte...",
+      "images": [
+         "https://live.staticflickr.com/65535/52495062878_111e0bae11.jpg",
+         "https://live.staticflickr.com/65535/52494981410_8d9b5e19d7.jpg",
+         "https://live.staticflickr.com/65535/52492266989_4f45b8c514.jpg",
+         "https://live.staticflickr.com/65535/52486872384_ace5b88c48.jpg",
+         "https://live.staticflickr.com/65535/52485531407_0be1bc3b06.jpg",
+         "https://live.staticflickr.com/65535/52483593068_600fbe024e.jpg",
+         "https://live.staticflickr.com/65535/52483591473_00e9bba8be.jpg",
+         "https://live.staticflickr.com/65535/52483588598_5d720f2ecf.jpg",
+         "https://live.staticflickr.com/65535/52483040326_fbdb5eee26.jpg",
+         "https://live.staticflickr.com/65535/52483502430_9f9de1a637.jpg"
+      ],
+      "nearbyCoffeeShops": [
+         {
+            "name": "Antico Caffè Greco",
+            "placeId": "ChIJ2d0BD1VgLxMRNdZSWGk2gXQ",
+            "vicinity": "Via dei Condotti, 86, Roma",
+            "rating": 4,
+            "location": {
+               "lat": 41.9055606,
+               "lng": 12.4814639
+            },
+            "priceLevel": 4
+         },
+         {
+            "name": "Caffè Portofino",
+            "placeId": "ChIJI2YIy1hgLxMRkfL88yosIdM",
+            "vicinity": "Piazza Cola di Rienzo, 116, Roma",
+            "rating": 4.3,
+            "location": {
+               "lat": 41.9081313,
+               "lng": 12.4670268
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Trecaffè",
+            "placeId": "ChIJ0676XKthLxMRih_hbyWnTQ8",
+            "vicinity": "Via dei Due Macelli, 107, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.9033525,
+               "lng": 12.4851436
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Sciascia Caffè 1919",
+            "placeId": "ChIJyWu_8V9gLxMRsSDBJJjdf_g",
+            "vicinity": "Via Fabio Massimo, n.80/a, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.909859,
+               "lng": 12.461994
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Caffè Lembo",
+            "placeId": "ChIJMRc24qphLxMRJYbkNpVhVps",
+            "vicinity": "Via Francesco Crispi, 95, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.9053694,
+               "lng": 12.4857751
+            }
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJGwCOTKphLxMR1WpJpK83nFI",
+            "vicinity": "Via Vittorio Veneto, 24, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.9048986,
+               "lng": 12.4878697
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "McCafé",
+            "placeId": "ChIJoYTJz1RgLxMRhGnbhN6HH-Q",
+            "vicinity": "Piazza di Spagna, 46, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9047271,
+               "lng": 12.4834821
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffe Roma Gelateria",
+            "placeId": "ChIJceRhY1NhLxMRsgrGB0itNUE",
+            "vicinity": "Piazza di Trevi, 99, Roma",
+            "rating": 2,
+            "location": {
+               "lat": 41.900787,
+               "lng": 12.4830152
+            }
+         },
+         {
+            "name": "Caffè dell'Orologio by PuroSud",
+            "placeId": "ChIJsd6nB_lgLxMR_z-hWQFBZ2I",
+            "vicinity": "Piazzale Flaminio, 34, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9117438,
+               "lng": 12.4754194
+            }
+         },
+         {
+            "name": "Moma Caffè",
+            "placeId": "ChIJ4SG56gBhLxMReyN9GAyti7Q",
+            "vicinity": "Via Lazio, 17, Roma",
+            "rating": 4.4,
+            "location": {
+               "lat": 41.9087222,
+               "lng": 12.488211
+            }
+         }
+      ],
+      "nearbyHospitals": [
+         {
+            "name": "Santo Spirito In Sassia Hospital",
+            "placeId": "ChIJsd__OV1gLxMRzh_Ep1m_LPU",
+            "vicinity": "Lungotevere in Sassia, 1, Roma",
+            "rating": 3.6,
+            "location": {
+               "lat": 41.9009578,
+               "lng": 12.4622703
+            }
+         },
+         {
+            "name": "Ospedale",
+            "placeId": "ChIJPbL-ABFhLxMRxLxA8C1eOuA",
+            "vicinity": "Piazza di Sant'Onofrio, 4, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.8968303,
+               "lng": 12.4608206
+            }
+         },
+         {
+            "name": "Bambino Gesù Children's Hospital",
+            "placeId": "ChIJDY8LeUJgLxMR1VdZtjuE6m4",
+            "vicinity": "Piazza di Sant'Onofrio, 4, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8967164,
+               "lng": 12.4609553
+            }
+         },
+         {
+            "name": "Ospedale Del Vaticano",
+            "placeId": "ChIJk_ILcq5hLxMRTXC9NUimsXM",
+            "vicinity": "Via della Conciliazione, 8, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9025937,
+               "lng": 12.4627176
+            }
+         }
+      ]
+   },
+   {
+      "name": "Spanish Steps",
+      "city": "rome",
+      "location": {
+         "lat": 41.90599,
+         "lng": 12.482775
+      },
+      "avgRating": 4.5,
+      "totalRatings": 54926,
+      "body": "The Spanish Steps (Italian: Scalinata di Trinità dei Monti) in Rome, Italy, climb a steep slope between the Piazza di Spagna at the base and Piazza Trinità dei Monti, dominated by the Trinità dei Monti church, at the top.\nThe monumental stairway of 135 steps was built with French diplomat Étienne Gueffier's bequeathed funds of 20,000 scudi, in 1723–1725, linking the Trinità dei Monti church under the patronage of the Bourbon kings of France, at the top of the steps, and the Spanish Embassy to the Holy See in the Palazzo Monaldeschi at the bottom of the steps. The stairway was designed by architects Francesco de Sanctis and Alessandro Specchi.",
+      "excerpt": "The Spanish Steps (Italian: Scalinata di Trinità dei Monti) in Rome, Italy, climb a steep slope between the Piazza di Spagna at the base and Piazza Trinità dei Monti, dominated by the Trinità dei Mont...",
+      "images": [
+         "https://live.staticflickr.com/65535/52494099537_9166a00fc1.jpg",
+         "https://live.staticflickr.com/65535/52495062978_5b15430141.jpg",
+         "https://live.staticflickr.com/65535/52495062878_111e0bae11.jpg",
+         "https://live.staticflickr.com/65535/52495064788_046a87efc3.jpg",
+         "https://live.staticflickr.com/65535/52494981835_13ed7a5033.jpg",
+         "https://live.staticflickr.com/65535/52494504906_e97b6e0901.jpg",
+         "https://live.staticflickr.com/65535/52494002646_c9d217e091.jpg",
+         "https://live.staticflickr.com/65535/52492266989_4f45b8c514.jpg",
+         "https://live.staticflickr.com/65535/52487062075_b616b7f595.jpg",
+         "https://live.staticflickr.com/65535/52484783644_3e13fb8279.jpg"
+      ],
+      "nearbyCoffeeShops": [
+         {
+            "name": "La Casa del Caffè Tazza d'Oro",
+            "placeId": "ChIJxY4y7lFgLxMRTCTRu-sodxk",
+            "vicinity": "Via degli Orfani, 84, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.899434,
+               "lng": 12.477407
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Roma Antica Enoteca",
+            "placeId": "ChIJXeytyrJhLxMRI-JDY4MDewg",
+            "vicinity": "Via di S. Eufemia, 5, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.896869,
+               "lng": 12.4839637
+            }
+         },
+         {
+            "name": "Sant' Eustachio Il Caffè",
+            "placeId": "ChIJF4C_0k9gLxMR2LL_-I4HSWU",
+            "vicinity": "Piazza di S. Eustachio, 82, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.8982901,
+               "lng": 12.475425
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Antico Caffè Greco",
+            "placeId": "ChIJ2d0BD1VgLxMRNdZSWGk2gXQ",
+            "vicinity": "Via dei Condotti, 86, Roma",
+            "rating": 4,
+            "location": {
+               "lat": 41.9055606,
+               "lng": 12.4814639
+            },
+            "priceLevel": 4
+         },
+         {
+            "name": "Trecaffè",
+            "placeId": "ChIJ0676XKthLxMRih_hbyWnTQ8",
+            "vicinity": "Via dei Due Macelli, 107, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.9033525,
+               "lng": 12.4851436
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Lembo",
+            "placeId": "ChIJMRc24qphLxMRJYbkNpVhVps",
+            "vicinity": "Via Francesco Crispi, 95, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.9053694,
+               "lng": 12.4857751
+            }
+         },
+         {
+            "name": "Riccardo Taliani Banqueting",
+            "placeId": "ChIJQaU7U65hLxMRwxctNcoy-b4",
+            "vicinity": "Via Genova, 26, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.8992618,
+               "lng": 12.4922702
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJGwCOTKphLxMR1WpJpK83nFI",
+            "vicinity": "Via Vittorio Veneto, 24, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.9048986,
+               "lng": 12.4878697
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "McCafé",
+            "placeId": "ChIJoYTJz1RgLxMRhGnbhN6HH-Q",
+            "vicinity": "Piazza di Spagna, 46, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9047271,
+               "lng": 12.4834821
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè dell'Orologio by PuroSud",
+            "placeId": "ChIJsd6nB_lgLxMR_z-hWQFBZ2I",
+            "vicinity": "Piazzale Flaminio, 34, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9117438,
+               "lng": 12.4754194
+            }
+         },
+         {
+            "name": "Caffe Roma Gelateria",
+            "placeId": "ChIJceRhY1NhLxMRsgrGB0itNUE",
+            "vicinity": "Piazza di Trevi, 99, Roma",
+            "rating": 2,
+            "location": {
+               "lat": 41.900787,
+               "lng": 12.4830152
+            }
+         },
+         {
+            "name": "Moma Caffè",
+            "placeId": "ChIJ4SG56gBhLxMReyN9GAyti7Q",
+            "vicinity": "Via Lazio, 17, Roma",
+            "rating": 4.4,
+            "location": {
+               "lat": 41.9087222,
+               "lng": 12.488211
+            }
+         },
+         {
+            "name": "Er Baretto",
+            "placeId": "ChIJ71hdlrFhLxMRgTxcHD7sdVg",
+            "vicinity": "Via del Boschetto, 132, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.895686,
+               "lng": 12.4908905
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Zer0ttoNove Café et Caffé",
+            "placeId": "ChIJndKYLU5gLxMR2zFpIIyu3Q8",
+            "vicinity": "Piazza di S. Eustachio, 50, Roma",
+            "rating": 3.9,
+            "location": {
+               "lat": 41.8984431,
+               "lng": 12.4755229
+            },
+            "priceLevel": 1
+         }
+      ],
+      "nearbyHospitals": [
+         {
+            "name": "Fatebenefratelli Isola Tiberina",
+            "placeId": "ChIJcVd2wzlgLxMRzPlKO7ImW3k",
+            "vicinity": "Via di Ponte Quattro capi, 39, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8908802,
+               "lng": 12.4769801
+            }
+         },
+         {
+            "name": "Santo Spirito In Sassia Hospital",
+            "placeId": "ChIJsd__OV1gLxMRzh_Ep1m_LPU",
+            "vicinity": "Lungotevere in Sassia, 1, Roma",
+            "rating": 3.6,
+            "location": {
+               "lat": 41.9009578,
+               "lng": 12.4622703
+            }
+         },
+         {
+            "name": "Ospedale Del Vaticano",
+            "placeId": "ChIJk_ILcq5hLxMRTXC9NUimsXM",
+            "vicinity": "Via della Conciliazione, 8, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9025937,
+               "lng": 12.4627176
+            }
+         }
+      ]
+   },
+   {
+      "name": "Trevi Fountain",
+      "city": "rome",
+      "location": {
+         "lat": 41.9009325,
+         "lng": 12.483313
+      },
+      "avgRating": 4.8,
+      "totalRatings": 333617,
+      "body": "The Trevi Fountain (Italian: Fontana di Trevi) is an 18th-century fountain in the Trevi district in Rome, Italy, designed by Italian architect Nicola Salvi and completed by Giuseppe Pannini and several others. Standing 26.3 metres (86 ft) high and 49.15 metres (161.3 ft) wide, it is the largest Baroque fountain in the city and one of the most famous fountains in the world.\nThe fountain has appeared in several films, including Roman Holiday (1953); Three Coins in the Fountain (1954); Federico Fellini's classic, La Dolce Vita (1960); Sabrina Goes to Rome (1998); and The Lizzie McGuire Movie (2003).",
+      "excerpt": "The Trevi Fountain (Italian: Fontana di Trevi) is an 18th-century fountain in the Trevi district in Rome, Italy, designed by Italian architect Nicola Salvi and completed by Giuseppe Pannini and severa...",
+      "images": [
+         "https://live.staticflickr.com/65535/52494980685_ff6e3be361.jpg",
+         "https://live.staticflickr.com/65535/52494026037_5e63df572c.jpg",
+         "https://live.staticflickr.com/65535/52494981340_b256a84be7.jpg",
+         "https://live.staticflickr.com/65535/52492548412_baecaa68ed.jpg",
+         "https://live.staticflickr.com/65535/52485531837_a0124472a1.jpg",
+         "https://live.staticflickr.com/65535/52486185018_1d2f9ee9fa.jpg",
+         "https://live.staticflickr.com/65535/52485058933_f14ac33d81.jpg",
+         "https://live.staticflickr.com/65535/52483554830_801190e56f.jpg",
+         "https://live.staticflickr.com/65535/52483045226_5cc4bab71b.jpg",
+         "https://live.staticflickr.com/65535/52483587043_3e29e36b86.jpg"
+      ],
+      "nearbyCoffeeShops": [
+         {
+            "name": "La Casa del Caffè Tazza d'Oro",
+            "placeId": "ChIJxY4y7lFgLxMRTCTRu-sodxk",
+            "vicinity": "Via degli Orfani, 84, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.899434,
+               "lng": 12.477407
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Sant' Eustachio Il Caffè",
+            "placeId": "ChIJF4C_0k9gLxMR2LL_-I4HSWU",
+            "vicinity": "Piazza di S. Eustachio, 82, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.8982901,
+               "lng": 12.475425
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Antico Caffè Greco",
+            "placeId": "ChIJ2d0BD1VgLxMRNdZSWGk2gXQ",
+            "vicinity": "Via dei Condotti, 86, Roma",
+            "rating": 4,
+            "location": {
+               "lat": 41.9055606,
+               "lng": 12.4814639
+            },
+            "priceLevel": 4
+         },
+         {
+            "name": "Caffè Roma Antica Enoteca",
+            "placeId": "ChIJXeytyrJhLxMRI-JDY4MDewg",
+            "vicinity": "Via di S. Eufemia, 5, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.896869,
+               "lng": 12.4839637
+            }
+         },
+         {
+            "name": "Trecaffè",
+            "placeId": "ChIJ0676XKthLxMRih_hbyWnTQ8",
+            "vicinity": "Via dei Due Macelli, 107, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.9033525,
+               "lng": 12.4851436
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "La Licata",
+            "placeId": "ChIJYROAc7FhLxMRPuswi72QEBw",
+            "vicinity": "Via dei Serpenti, 165, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8946536,
+               "lng": 12.4909007
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Roma",
+            "placeId": "ChIJz6eMf99hLxMRObJtGFSS1PY",
+            "vicinity": "Via del Colosseo, 31, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.891608,
+               "lng": 12.4909512
+            }
+         },
+         {
+            "name": "Zer0ttoNove Café et Caffé",
+            "placeId": "ChIJndKYLU5gLxMR2zFpIIyu3Q8",
+            "vicinity": "Piazza di S. Eustachio, 50, Roma",
+            "rating": 3.9,
+            "location": {
+               "lat": 41.8984431,
+               "lng": 12.4755229
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Gran Caffè Rione VIII",
+            "placeId": "ChIJ-7RwMElgLxMRzDJygOyOtrE",
+            "vicinity": "Via di S. Maria del Pianto, 59, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.893531,
+               "lng": 12.4761652
+            }
+         },
+         {
+            "name": "Il Caffè Dietro L'Angolo Roma",
+            "placeId": "ChIJc813NcxiLxMRmsOTWGiVU8o",
+            "vicinity": "Via Laurina, 32, Roma",
+            "rating": 4.4,
+            "location": {
+               "lat": 41.9086927,
+               "lng": 12.4779069
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Roscioli Caffè Pasticceria",
+            "placeId": "ChIJZ846zUhgLxMRzdyZ615Fc4Q",
+            "vicinity": "Piazza Benedetto Cairoli, 16, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.8941457,
+               "lng": 12.4744403
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Gran Caffè La Caffettiera",
+            "placeId": "ChIJJbK-PVJgLxMRM1dzchSlMj4",
+            "vicinity": "P.za di Pietra, 65, Roma",
+            "rating": 4,
+            "location": {
+               "lat": 41.9000741,
+               "lng": 12.4799216
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJGwCOTKphLxMR1WpJpK83nFI",
+            "vicinity": "Via Vittorio Veneto, 24, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.9048986,
+               "lng": 12.4878697
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Caffè Novecento",
+            "placeId": "ChIJF5b40ERgLxMRAT9GoBma00A",
+            "vicinity": "Via del Governo Vecchio, 12, Roma",
+            "rating": 3.9,
+            "location": {
+               "lat": 41.8992458,
+               "lng": 12.4690431
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJQxlbiExgLxMRdWOCUgmo--w",
+            "vicinity": "Piazza d'Aracoeli, 4, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.8941698,
+               "lng": 12.4811866
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Caffè della Scala Roma",
+            "placeId": "ChIJW0iqZUdgLxMRbLOBpeSkiSg",
+            "vicinity": "Via della Scala, 4, Roma",
+            "rating": 3.9,
+            "location": {
+               "lat": 41.8905261,
+               "lng": 12.4685273
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Emporio Sant'Eustachio",
+            "placeId": "ChIJbQ6p_HJhLxMRGBc-X8wQvC4",
+            "vicinity": "Via della Maddalena, 36, Roma",
+            "rating": 3.7,
+            "location": {
+               "lat": 41.9008364,
+               "lng": 12.4766148
+            }
+         },
+         {
+            "name": "Caffè Delle Esposizioni",
+            "placeId": "ChIJ9bSSTSxhLxMRd3RURfWa5js",
+            "vicinity": "Via Nazionale, 194a, Roma",
+            "rating": 4.3,
+            "location": {
+               "lat": 41.8997286,
+               "lng": 12.4906891
+            }
+         },
+         {
+            "name": "Caffè Minerva",
+            "placeId": "ChIJkzuAG05gLxMRrZJ0JHUzS1M",
+            "vicinity": "Via della Minerva, 8, Roma",
+            "rating": 3.6,
+            "location": {
+               "lat": 41.898569,
+               "lng": 12.477398
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Riccardo Taliani Banqueting",
+            "placeId": "ChIJQaU7U65hLxMRwxctNcoy-b4",
+            "vicinity": "Via Genova, 26, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.8992618,
+               "lng": 12.4922702
+            },
+            "priceLevel": 2
+         }
+      ],
+      "nearbyHospitals": [
+         {
+            "name": "San Giovanni Addolorata Hospital",
+            "placeId": "ChIJu2EuvcBhLxMRKtAx3I4PLl0",
+            "vicinity": "Via dell'Amba Aradam, 8, Roma",
+            "rating": 3.1,
+            "location": {
+               "lat": 41.885814,
+               "lng": 12.5022441
+            }
+         },
+         {
+            "name": "Fatebenefratelli Isola Tiberina",
+            "placeId": "ChIJcVd2wzlgLxMRzPlKO7ImW3k",
+            "vicinity": "Via di Ponte Quattro capi, 39, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8908802,
+               "lng": 12.4769801
+            }
+         },
+         {
+            "name": "Santo Spirito In Sassia Hospital",
+            "placeId": "ChIJsd__OV1gLxMRzh_Ep1m_LPU",
+            "vicinity": "Lungotevere in Sassia, 1, Roma",
+            "rating": 3.6,
+            "location": {
+               "lat": 41.9009578,
+               "lng": 12.4622703
+            }
+         },
+         {
+            "name": "Ospedale Nuovo Regina Margherita",
+            "placeId": "ChIJpwSU-qRhLxMR8cousDNGw1w",
+            "vicinity": "Viale di Trastevere, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.885921,
+               "lng": 12.4707913
+            }
+         },
+         {
+            "name": "Ospedale delle Donne",
+            "placeId": "ChIJ4QYCkVNhLxMRwsaUVCXDRTQ",
+            "vicinity": "P.za di S. Giovanni in Laterano, 74, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8873003,
+               "lng": 12.5037861
+            }
+         },
+         {
+            "name": "Celio Military Hospital",
+            "placeId": "ChIJA3S6-cdhLxMRg1hkjU-Oh_M",
+            "vicinity": "Piazza Celimontana, 50, Roma",
+            "rating": 3.5,
+            "location": {
+               "lat": 41.8867943,
+               "lng": 12.4960844
+            }
+         },
+         {
+            "name": "Presidio Nuovo Regina Margherita",
+            "placeId": "ChIJWR2rnjlgLxMROzDwQnffICo",
+            "vicinity": "Via Roma Libera, 76, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.88615799999999,
+               "lng": 12.4695537
+            }
+         },
+         {
+            "name": "Ospedale Del Vaticano",
+            "placeId": "ChIJk_ILcq5hLxMRTXC9NUimsXM",
+            "vicinity": "Via della Conciliazione, 8, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9025937,
+               "lng": 12.4627176
+            }
+         }
+      ]
+   },
+   {
+      "name": "Pantheon",
+      "city": "rome",
+      "location": {
+         "lat": 41.8986108,
+         "lng": 12.4768729
+      },
+      "avgRating": 4.8,
+      "totalRatings": 183225,
+      "body": "Pantheon may refer to:\n\nPantheon (religion), a set of gods belonging to a particular religion or tradition, and a temple or sacred building",
+      "excerpt": "Pantheon may refer to:\n\nPantheon (religion), a set of gods belonging to a particular religion or tradition, and a temple or sacred building...",
+      "images": [
+         "https://live.staticflickr.com/65535/52495062878_111e0bae11.jpg",
+         "https://live.staticflickr.com/65535/52495064788_046a87efc3.jpg",
+         "https://live.staticflickr.com/65535/52494504906_e97b6e0901.jpg",
+         "https://live.staticflickr.com/65535/52492266989_4f45b8c514.jpg",
+         "https://live.staticflickr.com/65535/52487062075_b616b7f595.jpg",
+         "https://live.staticflickr.com/65535/52483591763_cbcefc7fcb.jpg",
+         "https://live.staticflickr.com/65535/52483591473_00e9bba8be.jpg",
+         "https://live.staticflickr.com/65535/52483040326_fbdb5eee26.jpg",
+         "https://live.staticflickr.com/65535/52483502430_9f9de1a637.jpg",
+         "https://live.staticflickr.com/65535/52482541347_40f31c79ef.jpg"
+      ],
+      "nearbyCoffeeShops": [
+         {
+            "name": "La Casa del Caffè Tazza d'Oro",
+            "placeId": "ChIJxY4y7lFgLxMRTCTRu-sodxk",
+            "vicinity": "Via degli Orfani, 84, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.899434,
+               "lng": 12.477407
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Roma",
+            "placeId": "ChIJz6eMf99hLxMRObJtGFSS1PY",
+            "vicinity": "Via del Colosseo, 31, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.891608,
+               "lng": 12.4909512
+            }
+         },
+         {
+            "name": "Sant' Eustachio Il Caffè",
+            "placeId": "ChIJF4C_0k9gLxMR2LL_-I4HSWU",
+            "vicinity": "Piazza di S. Eustachio, 82, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.8982901,
+               "lng": 12.475425
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Caffè Roma Antica Enoteca",
+            "placeId": "ChIJXeytyrJhLxMRI-JDY4MDewg",
+            "vicinity": "Via di S. Eufemia, 5, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.896869,
+               "lng": 12.4839637
+            }
+         },
+         {
+            "name": "Roscioli Caffè Pasticceria",
+            "placeId": "ChIJZ846zUhgLxMRzdyZ615Fc4Q",
+            "vicinity": "Piazza Benedetto Cairoli, 16, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.8941457,
+               "lng": 12.4744403
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Caffè Portofino",
+            "placeId": "ChIJI2YIy1hgLxMRkfL88yosIdM",
+            "vicinity": "Piazza Cola di Rienzo, 116, Roma",
+            "rating": 4.3,
+            "location": {
+               "lat": 41.9081313,
+               "lng": 12.4670268
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Antico Caffè Greco",
+            "placeId": "ChIJ2d0BD1VgLxMRNdZSWGk2gXQ",
+            "vicinity": "Via dei Condotti, 86, Roma",
+            "rating": 4,
+            "location": {
+               "lat": 41.9055606,
+               "lng": 12.4814639
+            },
+            "priceLevel": 4
+         },
+         {
+            "name": "Trecaffè",
+            "placeId": "ChIJ0676XKthLxMRih_hbyWnTQ8",
+            "vicinity": "Via dei Due Macelli, 107, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.9033525,
+               "lng": 12.4851436
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Lembo",
+            "placeId": "ChIJMRc24qphLxMRJYbkNpVhVps",
+            "vicinity": "Via Francesco Crispi, 95, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.9053694,
+               "lng": 12.4857751
+            }
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJQxlbiExgLxMRdWOCUgmo--w",
+            "vicinity": "Piazza d'Aracoeli, 4, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.8941698,
+               "lng": 12.4811866
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Gran Caffè Rione VIII",
+            "placeId": "ChIJ-7RwMElgLxMRzDJygOyOtrE",
+            "vicinity": "Via di S. Maria del Pianto, 59, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.893531,
+               "lng": 12.4761652
+            }
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJGwCOTKphLxMR1WpJpK83nFI",
+            "vicinity": "Via Vittorio Veneto, 24, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.9048986,
+               "lng": 12.4878697
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Er Baretto",
+            "placeId": "ChIJ71hdlrFhLxMRgTxcHD7sdVg",
+            "vicinity": "Via del Boschetto, 132, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.895686,
+               "lng": 12.4908905
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "McCafé",
+            "placeId": "ChIJoYTJz1RgLxMRhGnbhN6HH-Q",
+            "vicinity": "Piazza di Spagna, 46, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9047271,
+               "lng": 12.4834821
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffe Roma Gelateria",
+            "placeId": "ChIJceRhY1NhLxMRsgrGB0itNUE",
+            "vicinity": "Piazza di Trevi, 99, Roma",
+            "rating": 2,
+            "location": {
+               "lat": 41.900787,
+               "lng": 12.4830152
+            }
+         },
+         {
+            "name": "Zer0ttoNove Café et Caffé",
+            "placeId": "ChIJndKYLU5gLxMR2zFpIIyu3Q8",
+            "vicinity": "Piazza di S. Eustachio, 50, Roma",
+            "rating": 3.9,
+            "location": {
+               "lat": 41.8984431,
+               "lng": 12.4755229
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Settimiano di Mella Valter e C. S.a.s.",
+            "placeId": "ChIJfVsyJEdgLxMR4nUqnExOMJM",
+            "vicinity": "Via di Porta Settimiana, 1, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.8920614,
+               "lng": 12.4676232
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Opere & Caffé",
+            "placeId": "ChIJKUB51klgLxMRqjKvjwAJH-M",
+            "vicinity": "Via della Lungaretta, 18, Roma",
+            "rating": 4.3,
+            "location": {
+               "lat": 41.8893277,
+               "lng": 12.4757025
+            }
+         }
+      ],
+      "nearbyHospitals": [
+         {
+            "name": "Fatebenefratelli Isola Tiberina",
+            "placeId": "ChIJcVd2wzlgLxMRzPlKO7ImW3k",
+            "vicinity": "Via di Ponte Quattro capi, 39, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8908802,
+               "lng": 12.4769801
+            }
+         },
+         {
+            "name": "Santo Spirito In Sassia Hospital",
+            "placeId": "ChIJsd__OV1gLxMRzh_Ep1m_LPU",
+            "vicinity": "Lungotevere in Sassia, 1, Roma",
+            "rating": 3.6,
+            "location": {
+               "lat": 41.9009578,
+               "lng": 12.4622703
+            }
+         },
+         {
+            "name": "Ospedale Nuovo Regina Margherita",
+            "placeId": "ChIJpwSU-qRhLxMR8cousDNGw1w",
+            "vicinity": "Viale di Trastevere, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.885921,
+               "lng": 12.4707913
+            }
+         },
+         {
+            "name": "Ospedale",
+            "placeId": "ChIJPbL-ABFhLxMRxLxA8C1eOuA",
+            "vicinity": "Piazza di Sant'Onofrio, 4, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.8968303,
+               "lng": 12.4608206
+            }
+         },
+         {
+            "name": "Celio Military Hospital",
+            "placeId": "ChIJA3S6-cdhLxMRg1hkjU-Oh_M",
+            "vicinity": "Piazza Celimontana, 50, Roma",
+            "rating": 3.5,
+            "location": {
+               "lat": 41.8867943,
+               "lng": 12.4960844
+            }
+         },
+         {
+            "name": "Bambino Gesù Children's Hospital",
+            "placeId": "ChIJDY8LeUJgLxMR1VdZtjuE6m4",
+            "vicinity": "Piazza di Sant'Onofrio, 4, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8967164,
+               "lng": 12.4609553
+            }
+         },
+         {
+            "name": "Presidio Nuovo Regina Margherita",
+            "placeId": "ChIJWR2rnjlgLxMROzDwQnffICo",
+            "vicinity": "Via Roma Libera, 76, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.88615799999999,
+               "lng": 12.4695537
+            }
+         },
+         {
+            "name": "Ospedale Del Vaticano",
+            "placeId": "ChIJk_ILcq5hLxMRTXC9NUimsXM",
+            "vicinity": "Via della Conciliazione, 8, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9025937,
+               "lng": 12.4627176
+            }
+         }
+      ]
+   },
+   {
+      "name": "Neptune Fountain",
+      "city": "rome",
+      "location": {
+         "lat": 41.8998083,
+         "lng": 12.473027
+      },
+      "avgRating": 4.7,
+      "totalRatings": 1404,
+      "body": "",
+      "excerpt": "undefined...",
+      "images": [
+         "https://live.staticflickr.com/65535/52494159736_e68fb5cc84.jpg",
+         "https://live.staticflickr.com/65535/52494284909_61f3f80f8f.jpg",
+         "https://live.staticflickr.com/65535/52488574118_45feef9969.jpg",
+         "https://live.staticflickr.com/65535/52485621890_762ba8d878.jpg",
+         "https://live.staticflickr.com/65535/52482548917_04a8745c19.jpg",
+         "https://live.staticflickr.com/65535/52483045641_2f7464c5f5.jpg",
+         "https://live.staticflickr.com/65535/52482548237_f172ce0870.jpg",
+         "https://live.staticflickr.com/65535/52482547872_b458f1451f.jpg",
+         "https://live.staticflickr.com/65535/52483315514_b01178cb58.jpg",
+         "https://live.staticflickr.com/65535/52483503620_1958d154c9.jpg"
+      ],
+      "nearbyCoffeeShops": [
+         {
+            "name": "La Casa del Caffè Tazza d'Oro",
+            "placeId": "ChIJxY4y7lFgLxMRTCTRu-sodxk",
+            "vicinity": "Via degli Orfani, 84, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.899434,
+               "lng": 12.477407
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Roma Antica Enoteca",
+            "placeId": "ChIJXeytyrJhLxMRI-JDY4MDewg",
+            "vicinity": "Via di S. Eufemia, 5, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.896869,
+               "lng": 12.4839637
+            }
+         },
+         {
+            "name": "Sant' Eustachio Il Caffè",
+            "placeId": "ChIJF4C_0k9gLxMR2LL_-I4HSWU",
+            "vicinity": "Piazza di S. Eustachio, 82, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.8982901,
+               "lng": 12.475425
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Roscioli Caffè Pasticceria",
+            "placeId": "ChIJZ846zUhgLxMRzdyZ615Fc4Q",
+            "vicinity": "Piazza Benedetto Cairoli, 16, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.8941457,
+               "lng": 12.4744403
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Antico Caffè Greco",
+            "placeId": "ChIJ2d0BD1VgLxMRNdZSWGk2gXQ",
+            "vicinity": "Via dei Condotti, 86, Roma",
+            "rating": 4,
+            "location": {
+               "lat": 41.9055606,
+               "lng": 12.4814639
+            },
+            "priceLevel": 4
+         },
+         {
+            "name": "Caffè Portofino",
+            "placeId": "ChIJI2YIy1hgLxMRkfL88yosIdM",
+            "vicinity": "Piazza Cola di Rienzo, 116, Roma",
+            "rating": 4.3,
+            "location": {
+               "lat": 41.9081313,
+               "lng": 12.4670268
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Trecaffè",
+            "placeId": "ChIJ0676XKthLxMRih_hbyWnTQ8",
+            "vicinity": "Via dei Due Macelli, 107, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.9033525,
+               "lng": 12.4851436
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Sciascia Caffè 1919",
+            "placeId": "ChIJyWu_8V9gLxMRsSDBJJjdf_g",
+            "vicinity": "Via Fabio Massimo, n.80/a, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.909859,
+               "lng": 12.461994
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJQxlbiExgLxMRdWOCUgmo--w",
+            "vicinity": "Piazza d'Aracoeli, 4, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.8941698,
+               "lng": 12.4811866
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Caffè Lembo",
+            "placeId": "ChIJMRc24qphLxMRJYbkNpVhVps",
+            "vicinity": "Via Francesco Crispi, 95, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.9053694,
+               "lng": 12.4857751
+            }
+         },
+         {
+            "name": "Gran Caffè Rione VIII",
+            "placeId": "ChIJ-7RwMElgLxMRzDJygOyOtrE",
+            "vicinity": "Via di S. Maria del Pianto, 59, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.893531,
+               "lng": 12.4761652
+            }
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJGwCOTKphLxMR1WpJpK83nFI",
+            "vicinity": "Via Vittorio Veneto, 24, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.9048986,
+               "lng": 12.4878697
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "McCafé",
+            "placeId": "ChIJoYTJz1RgLxMRhGnbhN6HH-Q",
+            "vicinity": "Piazza di Spagna, 46, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9047271,
+               "lng": 12.4834821
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffe Roma Gelateria",
+            "placeId": "ChIJceRhY1NhLxMRsgrGB0itNUE",
+            "vicinity": "Piazza di Trevi, 99, Roma",
+            "rating": 2,
+            "location": {
+               "lat": 41.900787,
+               "lng": 12.4830152
+            }
+         },
+         {
+            "name": "Zer0ttoNove Café et Caffé",
+            "placeId": "ChIJndKYLU5gLxMR2zFpIIyu3Q8",
+            "vicinity": "Piazza di S. Eustachio, 50, Roma",
+            "rating": 3.9,
+            "location": {
+               "lat": 41.8984431,
+               "lng": 12.4755229
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Settimiano di Mella Valter e C. S.a.s.",
+            "placeId": "ChIJfVsyJEdgLxMR4nUqnExOMJM",
+            "vicinity": "Via di Porta Settimiana, 1, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.8920614,
+               "lng": 12.4676232
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Opere & Caffé",
+            "placeId": "ChIJKUB51klgLxMRqjKvjwAJH-M",
+            "vicinity": "Via della Lungaretta, 18, Roma",
+            "rating": 4.3,
+            "location": {
+               "lat": 41.8893277,
+               "lng": 12.4757025
+            }
+         },
+         {
+            "name": "Il Caffè Dietro L'Angolo Roma",
+            "placeId": "ChIJc813NcxiLxMRmsOTWGiVU8o",
+            "vicinity": "Via Laurina, 32, Roma",
+            "rating": 4.4,
+            "location": {
+               "lat": 41.9086927,
+               "lng": 12.4779069
+            },
+            "priceLevel": 1
+         }
+      ],
+      "nearbyHospitals": [
+         {
+            "name": "Fatebenefratelli Isola Tiberina",
+            "placeId": "ChIJcVd2wzlgLxMRzPlKO7ImW3k",
+            "vicinity": "Via di Ponte Quattro capi, 39, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8908802,
+               "lng": 12.4769801
+            }
+         },
+         {
+            "name": "Santo Spirito In Sassia Hospital",
+            "placeId": "ChIJsd__OV1gLxMRzh_Ep1m_LPU",
+            "vicinity": "Lungotevere in Sassia, 1, Roma",
+            "rating": 3.6,
+            "location": {
+               "lat": 41.9009578,
+               "lng": 12.4622703
+            }
+         },
+         {
+            "name": "Ospedale Nuovo Regina Margherita",
+            "placeId": "ChIJpwSU-qRhLxMR8cousDNGw1w",
+            "vicinity": "Viale di Trastevere, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.885921,
+               "lng": 12.4707913
+            }
+         },
+         {
+            "name": "Ospedale",
+            "placeId": "ChIJPbL-ABFhLxMRxLxA8C1eOuA",
+            "vicinity": "Piazza di Sant'Onofrio, 4, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.8968303,
+               "lng": 12.4608206
+            }
+         },
+         {
+            "name": "Bambino Gesù Children's Hospital",
+            "placeId": "ChIJDY8LeUJgLxMR1VdZtjuE6m4",
+            "vicinity": "Piazza di Sant'Onofrio, 4, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8967164,
+               "lng": 12.4609553
+            }
+         },
+         {
+            "name": "Presidio Nuovo Regina Margherita",
+            "placeId": "ChIJWR2rnjlgLxMROzDwQnffICo",
+            "vicinity": "Via Roma Libera, 76, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.88615799999999,
+               "lng": 12.4695537
+            }
+         },
+         {
+            "name": "Ospedale Del Vaticano",
+            "placeId": "ChIJk_ILcq5hLxMRTXC9NUimsXM",
+            "vicinity": "Via della Conciliazione, 8, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9025937,
+               "lng": 12.4627176
+            }
+         }
+      ]
+   },
+   {
+      "name": "Castel Sant'Angelo",
+      "city": "rome",
+      "location": {
+         "lat": 41.9030632,
+         "lng": 12.466276
+      },
+      "avgRating": 4.7,
+      "totalRatings": 69496,
+      "body": "The Mausoleum of Hadrian, usually known as Castel Sant'Angelo (Italian pronunciation: [kaˈstɛl sanˈtandʒelo]; English: Castle of the Holy Angel), is a towering cylindrical building in Parco Adriano, Rome, Italy. It was initially commissioned by the Roman Emperor Hadrian as a mausoleum for himself and his family. The building was later used by the popes as a fortress and castle, and is now a museum. The structure was once the tallest building in Rome.",
+      "excerpt": "The Mausoleum of Hadrian, usually known as Castel Sant'Angelo (Italian pronunciation: [kaˈstɛl sanˈtandʒelo]; English: Castle of the Holy Angel), is a towering cylindrical building in Parco Adriano, R...",
+      "images": [
+         "https://live.staticflickr.com/65535/52485430754_1f594c0631.jpg",
+         "https://live.staticflickr.com/65535/52482547872_b458f1451f.jpg",
+         "https://live.staticflickr.com/65535/52483591473_00e9bba8be.jpg",
+         "https://live.staticflickr.com/65535/52483315514_b01178cb58.jpg",
+         "https://live.staticflickr.com/65535/52483503620_1958d154c9.jpg",
+         "https://live.staticflickr.com/65535/52483588013_bf49e5b6d3.jpg",
+         "https://live.staticflickr.com/65535/52483039701_3f9eed7425.jpg",
+         "https://live.staticflickr.com/65535/52482541347_40f31c79ef.jpg",
+         "https://live.staticflickr.com/65535/52483038396_ae098dbbf8.jpg",
+         "https://live.staticflickr.com/65535/52483500560_2aa74896f9.jpg"
+      ],
+      "nearbyCoffeeShops": [
+         {
+            "name": "La Casa del Caffè Tazza d'Oro",
+            "placeId": "ChIJxY4y7lFgLxMRTCTRu-sodxk",
+            "vicinity": "Via degli Orfani, 84, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.899434,
+               "lng": 12.477407
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Sant' Eustachio Il Caffè",
+            "placeId": "ChIJF4C_0k9gLxMR2LL_-I4HSWU",
+            "vicinity": "Piazza di S. Eustachio, 82, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.8982901,
+               "lng": 12.475425
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Roscioli Caffè Pasticceria",
+            "placeId": "ChIJZ846zUhgLxMRzdyZ615Fc4Q",
+            "vicinity": "Piazza Benedetto Cairoli, 16, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.8941457,
+               "lng": 12.4744403
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Caffè Portofino",
+            "placeId": "ChIJI2YIy1hgLxMRkfL88yosIdM",
+            "vicinity": "Piazza Cola di Rienzo, 116, Roma",
+            "rating": 4.3,
+            "location": {
+               "lat": 41.9081313,
+               "lng": 12.4670268
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Sciascia Caffè 1919",
+            "placeId": "ChIJyWu_8V9gLxMRsSDBJJjdf_g",
+            "vicinity": "Via Fabio Massimo, n.80/a, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.909859,
+               "lng": 12.461994
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Pergamino Caffè",
+            "placeId": "ChIJt8oASGFgLxMR14WNPCt_G7c",
+            "vicinity": "Piazza del Risorgimento, 7, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.90660090000001,
+               "lng": 12.4566024
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJQxlbiExgLxMRdWOCUgmo--w",
+            "vicinity": "Piazza d'Aracoeli, 4, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.8941698,
+               "lng": 12.4811866
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Gran Caffè Rione VIII",
+            "placeId": "ChIJ-7RwMElgLxMRzDJygOyOtrE",
+            "vicinity": "Via di S. Maria del Pianto, 59, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.893531,
+               "lng": 12.4761652
+            }
+         },
+         {
+            "name": "Caffè dell'Orologio by PuroSud",
+            "placeId": "ChIJsd6nB_lgLxMR_z-hWQFBZ2I",
+            "vicinity": "Piazzale Flaminio, 34, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9117438,
+               "lng": 12.4754194
+            }
+         },
+         {
+            "name": "Zer0ttoNove Café et Caffé",
+            "placeId": "ChIJndKYLU5gLxMR2zFpIIyu3Q8",
+            "vicinity": "Piazza di S. Eustachio, 50, Roma",
+            "rating": 3.9,
+            "location": {
+               "lat": 41.8984431,
+               "lng": 12.4755229
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Settimiano di Mella Valter e C. S.a.s.",
+            "placeId": "ChIJfVsyJEdgLxMR4nUqnExOMJM",
+            "vicinity": "Via di Porta Settimiana, 1, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.8920614,
+               "lng": 12.4676232
+            },
+            "priceLevel": 1
+         }
+      ],
+      "nearbyHospitals": [
+         {
+            "name": "Fatebenefratelli Isola Tiberina",
+            "placeId": "ChIJcVd2wzlgLxMRzPlKO7ImW3k",
+            "vicinity": "Via di Ponte Quattro capi, 39, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8908802,
+               "lng": 12.4769801
+            }
+         },
+         {
+            "name": "Santo Spirito In Sassia Hospital",
+            "placeId": "ChIJsd__OV1gLxMRzh_Ep1m_LPU",
+            "vicinity": "Lungotevere in Sassia, 1, Roma",
+            "rating": 3.6,
+            "location": {
+               "lat": 41.9009578,
+               "lng": 12.4622703
+            }
+         },
+         {
+            "name": "Ospedale",
+            "placeId": "ChIJPbL-ABFhLxMRxLxA8C1eOuA",
+            "vicinity": "Piazza di Sant'Onofrio, 4, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.8968303,
+               "lng": 12.4608206
+            }
+         },
+         {
+            "name": "Bambino Gesù Children's Hospital",
+            "placeId": "ChIJDY8LeUJgLxMR1VdZtjuE6m4",
+            "vicinity": "Piazza di Sant'Onofrio, 4, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8967164,
+               "lng": 12.4609553
+            }
+         },
+         {
+            "name": "Ospedale Del Vaticano",
+            "placeId": "ChIJk_ILcq5hLxMRTXC9NUimsXM",
+            "vicinity": "Via della Conciliazione, 8, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9025937,
+               "lng": 12.4627176
+            }
+         }
+      ]
+   },
+   {
+      "name": "Capitoline Museums",
+      "city": "rome",
+      "location": {
+         "lat": 41.8929428,
+         "lng": 12.4825577
+      },
+      "avgRating": 4.7,
+      "totalRatings": 12774,
+      "body": "The Capitoline Museums (Italian: Musei Capitolini) are a group of art and archaeological museums in Piazza del Campidoglio, on top of the Capitoline Hill in Rome, Italy. The historic seats of the museums are Palazzo dei Conservatori and Palazzo Nuovo, facing on the central trapezoidal piazza in a plan conceived by Michelangelo in 1536 and executed over a period of more than 400 years. \nThe history of the museum can be traced to 1471, when Pope Sixtus IV donated a collection of important ancient bronzes to the people of Rome and located them on the Capitoline Hill. Since then, the museums' collection has grown to include many ancient Roman statues, inscriptions, and other artifacts; a collection of medieval and Renaissance art; and collections of jewels, coins, and other items. The museums are owned and operated by the municipality of Rome.\nThe statue of a mounted rider in the centre of the piazza is of Emperor Marcus Aurelius. It is a copy, the original being housed on-site in the Capitoline museum.\nOpened to the public in 1734 under Clement XII, the Capitoline Museums are considered one of the oldest museums in the world, understood as a place where art could be enjoyed by all and not only by the owners.",
+      "excerpt": "The Capitoline Museums (Italian: Musei Capitolini) are a group of art and archaeological museums in Piazza del Campidoglio, on top of the Capitoline Hill in Rome, Italy. The historic seats of the muse...",
+      "images": [
+         "https://live.staticflickr.com/65535/52495062978_5b15430141.jpg",
+         "https://live.staticflickr.com/65535/52495062878_111e0bae11.jpg",
+         "https://live.staticflickr.com/65535/52495064788_046a87efc3.jpg",
+         "https://live.staticflickr.com/65535/52494025862_46c7f19cbf.jpg",
+         "https://live.staticflickr.com/65535/52494981345_e4c7061acb.jpg",
+         "https://live.staticflickr.com/65535/52494981240_e5d9e25ca8.jpg",
+         "https://live.staticflickr.com/65535/52492266989_4f45b8c514.jpg",
+         "https://live.staticflickr.com/65535/52487062075_b616b7f595.jpg",
+         "https://live.staticflickr.com/65535/52483507465_721f21db4e.jpg",
+         "https://live.staticflickr.com/65535/52483502430_9f9de1a637.jpg"
+      ],
+      "nearbyCoffeeShops": [
+         {
+            "name": "Caffè Roma",
+            "placeId": "ChIJz6eMf99hLxMRObJtGFSS1PY",
+            "vicinity": "Via del Colosseo, 31, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.891608,
+               "lng": 12.4909512
+            }
+         },
+         {
+            "name": "La Casa del Caffè Tazza d'Oro",
+            "placeId": "ChIJxY4y7lFgLxMRTCTRu-sodxk",
+            "vicinity": "Via degli Orfani, 84, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.899434,
+               "lng": 12.477407
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Roma Antica Enoteca",
+            "placeId": "ChIJXeytyrJhLxMRI-JDY4MDewg",
+            "vicinity": "Via di S. Eufemia, 5, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.896869,
+               "lng": 12.4839637
+            }
+         },
+         {
+            "name": "Roscioli Caffè Pasticceria",
+            "placeId": "ChIJZ846zUhgLxMRzdyZ615Fc4Q",
+            "vicinity": "Piazza Benedetto Cairoli, 16, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.8941457,
+               "lng": 12.4744403
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Sant' Eustachio Il Caffè",
+            "placeId": "ChIJF4C_0k9gLxMR2LL_-I4HSWU",
+            "vicinity": "Piazza di S. Eustachio, 82, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.8982901,
+               "lng": 12.475425
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJQxlbiExgLxMRdWOCUgmo--w",
+            "vicinity": "Piazza d'Aracoeli, 4, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.8941698,
+               "lng": 12.4811866
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Caffe Roma Gelateria",
+            "placeId": "ChIJceRhY1NhLxMRsgrGB0itNUE",
+            "vicinity": "Piazza di Trevi, 99, Roma",
+            "rating": 2,
+            "location": {
+               "lat": 41.900787,
+               "lng": 12.4830152
+            }
+         },
+         {
+            "name": "Trecaffè",
+            "placeId": "ChIJ0676XKthLxMRih_hbyWnTQ8",
+            "vicinity": "Via dei Due Macelli, 107, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.9033525,
+               "lng": 12.4851436
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Riccardo Taliani Banqueting",
+            "placeId": "ChIJQaU7U65hLxMRwxctNcoy-b4",
+            "vicinity": "Via Genova, 26, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.8992618,
+               "lng": 12.4922702
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Gran Caffè Rione VIII",
+            "placeId": "ChIJ-7RwMElgLxMRzDJygOyOtrE",
+            "vicinity": "Via di S. Maria del Pianto, 59, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.893531,
+               "lng": 12.4761652
+            }
+         },
+         {
+            "name": "Zer0ttoNove Café et Caffé",
+            "placeId": "ChIJndKYLU5gLxMR2zFpIIyu3Q8",
+            "vicinity": "Piazza di S. Eustachio, 50, Roma",
+            "rating": 3.9,
+            "location": {
+               "lat": 41.8984431,
+               "lng": 12.4755229
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "La Licata",
+            "placeId": "ChIJYROAc7FhLxMRPuswi72QEBw",
+            "vicinity": "Via dei Serpenti, 165, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8946536,
+               "lng": 12.4909007
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Settimiano di Mella Valter e C. S.a.s.",
+            "placeId": "ChIJfVsyJEdgLxMR4nUqnExOMJM",
+            "vicinity": "Via di Porta Settimiana, 1, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.8920614,
+               "lng": 12.4676232
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Gran Caffè La Caffettiera",
+            "placeId": "ChIJJbK-PVJgLxMRM1dzchSlMj4",
+            "vicinity": "P.za di Pietra, 65, Roma",
+            "rating": 4,
+            "location": {
+               "lat": 41.9000741,
+               "lng": 12.4799216
+            },
+            "priceLevel": 2
+         }
+      ],
+      "nearbyHospitals": [
+         {
+            "name": "San Giovanni Addolorata Hospital",
+            "placeId": "ChIJu2EuvcBhLxMRKtAx3I4PLl0",
+            "vicinity": "Via dell'Amba Aradam, 8, Roma",
+            "rating": 3.1,
+            "location": {
+               "lat": 41.885814,
+               "lng": 12.5022441
+            }
+         },
+         {
+            "name": "Santo Spirito In Sassia Hospital",
+            "placeId": "ChIJsd__OV1gLxMRzh_Ep1m_LPU",
+            "vicinity": "Lungotevere in Sassia, 1, Roma",
+            "rating": 3.6,
+            "location": {
+               "lat": 41.9009578,
+               "lng": 12.4622703
+            }
+         },
+         {
+            "name": "Fatebenefratelli Isola Tiberina",
+            "placeId": "ChIJcVd2wzlgLxMRzPlKO7ImW3k",
+            "vicinity": "Via di Ponte Quattro capi, 39, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8908802,
+               "lng": 12.4769801
+            }
+         },
+         {
+            "name": "Ospedale Nuovo Regina Margherita",
+            "placeId": "ChIJpwSU-qRhLxMR8cousDNGw1w",
+            "vicinity": "Viale di Trastevere, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.885921,
+               "lng": 12.4707913
+            }
+         },
+         {
+            "name": "Presidio Nuovo Regina Margherita",
+            "placeId": "ChIJWR2rnjlgLxMROzDwQnffICo",
+            "vicinity": "Via Roma Libera, 76, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.88615799999999,
+               "lng": 12.4695537
+            }
+         },
+         {
+            "name": "Ospedale Del Vaticano",
+            "placeId": "ChIJk_ILcq5hLxMRTXC9NUimsXM",
+            "vicinity": "Via della Conciliazione, 8, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9025937,
+               "lng": 12.4627176
+            }
+         },
+         {
+            "name": "Presidio croce rossa italiana \"Villa Maraini\"",
+            "placeId": "ChIJbQSu9LJhLxMRdkFH_SW2IN4",
+            "vicinity": "Via Giovanni Giolitti, 46, Roma",
+            "rating": 0,
+            "location": {
+               "lat": 41.9006169,
+               "lng": 12.500693
+            }
+         }
+      ]
+   },
+   {
+      "name": "Altar of the Fatherland",
+      "city": "rome",
+      "location": {
+         "lat": 41.8945976,
+         "lng": 12.4831269
+      },
+      "avgRating": 4.8,
+      "totalRatings": 47109,
+      "body": "",
+      "excerpt": "undefined...",
+      "images": [
+         "https://live.staticflickr.com/65535/52495064788_046a87efc3.jpg",
+         "https://live.staticflickr.com/65535/52486872384_ace5b88c48.jpg",
+         "https://live.staticflickr.com/65535/52485531407_0be1bc3b06.jpg",
+         "https://live.staticflickr.com/65535/52483593068_600fbe024e.jpg",
+         "https://live.staticflickr.com/65535/52483503730_e005ea969e.jpg",
+         "https://live.staticflickr.com/65535/52483040326_fbdb5eee26.jpg",
+         "https://live.staticflickr.com/65535/52483585438_d8a2691121.jpg",
+         "https://live.staticflickr.com/65535/52483568568_3daca59c2b.jpg",
+         "https://live.staticflickr.com/65535/52480790614_9bb5e772e4.jpg",
+         "https://live.staticflickr.com/65535/52474662936_2f10cd5fd6.jpg"
+      ],
+      "nearbyCoffeeShops": [
+         {
+            "name": "Caffè Roma",
+            "placeId": "ChIJz6eMf99hLxMRObJtGFSS1PY",
+            "vicinity": "Via del Colosseo, 31, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.891608,
+               "lng": 12.4909512
+            }
+         },
+         {
+            "name": "La Casa del Caffè Tazza d'Oro",
+            "placeId": "ChIJxY4y7lFgLxMRTCTRu-sodxk",
+            "vicinity": "Via degli Orfani, 84, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.899434,
+               "lng": 12.477407
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Roma Antica Enoteca",
+            "placeId": "ChIJXeytyrJhLxMRI-JDY4MDewg",
+            "vicinity": "Via di S. Eufemia, 5, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.896869,
+               "lng": 12.4839637
+            }
+         },
+         {
+            "name": "Roscioli Caffè Pasticceria",
+            "placeId": "ChIJZ846zUhgLxMRzdyZ615Fc4Q",
+            "vicinity": "Piazza Benedetto Cairoli, 16, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.8941457,
+               "lng": 12.4744403
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Sant' Eustachio Il Caffè",
+            "placeId": "ChIJF4C_0k9gLxMR2LL_-I4HSWU",
+            "vicinity": "Piazza di S. Eustachio, 82, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.8982901,
+               "lng": 12.475425
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Antico Caffè Greco",
+            "placeId": "ChIJ2d0BD1VgLxMRNdZSWGk2gXQ",
+            "vicinity": "Via dei Condotti, 86, Roma",
+            "rating": 4,
+            "location": {
+               "lat": 41.9055606,
+               "lng": 12.4814639
+            },
+            "priceLevel": 4
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJQxlbiExgLxMRdWOCUgmo--w",
+            "vicinity": "Piazza d'Aracoeli, 4, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.8941698,
+               "lng": 12.4811866
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Caffe Roma Gelateria",
+            "placeId": "ChIJceRhY1NhLxMRsgrGB0itNUE",
+            "vicinity": "Piazza di Trevi, 99, Roma",
+            "rating": 2,
+            "location": {
+               "lat": 41.900787,
+               "lng": 12.4830152
+            }
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJGwCOTKphLxMR1WpJpK83nFI",
+            "vicinity": "Via Vittorio Veneto, 24, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.9048986,
+               "lng": 12.4878697
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Trecaffè",
+            "placeId": "ChIJ0676XKthLxMRih_hbyWnTQ8",
+            "vicinity": "Via dei Due Macelli, 107, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.9033525,
+               "lng": 12.4851436
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Riccardo Taliani Banqueting",
+            "placeId": "ChIJQaU7U65hLxMRwxctNcoy-b4",
+            "vicinity": "Via Genova, 26, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.8992618,
+               "lng": 12.4922702
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Caffè Lembo",
+            "placeId": "ChIJMRc24qphLxMRJYbkNpVhVps",
+            "vicinity": "Via Francesco Crispi, 95, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.9053694,
+               "lng": 12.4857751
+            }
+         },
+         {
+            "name": "Gran Caffè Rione VIII",
+            "placeId": "ChIJ-7RwMElgLxMRzDJygOyOtrE",
+            "vicinity": "Via di S. Maria del Pianto, 59, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.893531,
+               "lng": 12.4761652
+            }
+         },
+         {
+            "name": "Zer0ttoNove Café et Caffé",
+            "placeId": "ChIJndKYLU5gLxMR2zFpIIyu3Q8",
+            "vicinity": "Piazza di S. Eustachio, 50, Roma",
+            "rating": 3.9,
+            "location": {
+               "lat": 41.8984431,
+               "lng": 12.4755229
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "McCafé",
+            "placeId": "ChIJoYTJz1RgLxMRhGnbhN6HH-Q",
+            "vicinity": "Piazza di Spagna, 46, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9047271,
+               "lng": 12.4834821
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "La Licata",
+            "placeId": "ChIJYROAc7FhLxMRPuswi72QEBw",
+            "vicinity": "Via dei Serpenti, 165, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8946536,
+               "lng": 12.4909007
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffe' Barberini",
+            "placeId": "ChIJAW6AcKlhLxMRDBL2rN6Ro2I",
+            "vicinity": "Via Barberini, 15, Roma",
+            "rating": 2.9,
+            "location": {
+               "lat": 41.904319,
+               "lng": 12.4903527
+            }
+         }
+      ],
+      "nearbyHospitals": [
+         {
+            "name": "San Giovanni Addolorata Hospital",
+            "placeId": "ChIJu2EuvcBhLxMRKtAx3I4PLl0",
+            "vicinity": "Via dell'Amba Aradam, 8, Roma",
+            "rating": 3.1,
+            "location": {
+               "lat": 41.885814,
+               "lng": 12.5022441
+            }
+         },
+         {
+            "name": "Fatebenefratelli Isola Tiberina",
+            "placeId": "ChIJcVd2wzlgLxMRzPlKO7ImW3k",
+            "vicinity": "Via di Ponte Quattro capi, 39, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8908802,
+               "lng": 12.4769801
+            }
+         },
+         {
+            "name": "Santo Spirito In Sassia Hospital",
+            "placeId": "ChIJsd__OV1gLxMRzh_Ep1m_LPU",
+            "vicinity": "Lungotevere in Sassia, 1, Roma",
+            "rating": 3.6,
+            "location": {
+               "lat": 41.9009578,
+               "lng": 12.4622703
+            }
+         },
+         {
+            "name": "Ospedale Nuovo Regina Margherita",
+            "placeId": "ChIJpwSU-qRhLxMR8cousDNGw1w",
+            "vicinity": "Viale di Trastevere, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.885921,
+               "lng": 12.4707913
+            }
+         },
+         {
+            "name": "Ospedale delle Donne",
+            "placeId": "ChIJ4QYCkVNhLxMRwsaUVCXDRTQ",
+            "vicinity": "P.za di S. Giovanni in Laterano, 74, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8873003,
+               "lng": 12.5037861
+            }
+         },
+         {
+            "name": "Celio Military Hospital",
+            "placeId": "ChIJA3S6-cdhLxMRg1hkjU-Oh_M",
+            "vicinity": "Piazza Celimontana, 50, Roma",
+            "rating": 3.5,
+            "location": {
+               "lat": 41.8867943,
+               "lng": 12.4960844
+            }
+         },
+         {
+            "name": "Presidio Nuovo Regina Margherita",
+            "placeId": "ChIJWR2rnjlgLxMROzDwQnffICo",
+            "vicinity": "Via Roma Libera, 76, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.88615799999999,
+               "lng": 12.4695537
+            }
+         },
+         {
+            "name": "Ospedale Del Vaticano",
+            "placeId": "ChIJk_ILcq5hLxMRTXC9NUimsXM",
+            "vicinity": "Via della Conciliazione, 8, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9025937,
+               "lng": 12.4627176
+            }
+         }
+      ]
+   },
+   {
+      "name": "Baths of Caracalla",
+      "city": "rome",
+      "location": {
+         "lat": 41.8790382,
+         "lng": 12.4924394
+      },
+      "avgRating": 4.6,
+      "totalRatings": 17656,
+      "body": "The Baths of Caracalla (Italian: Terme di Caracalla) in Rome, Italy, were the city's second largest Roman public baths, or thermae, after the Baths of Diocletian. The baths were likely built between AD 212 (or 211) and 216/217, during the reigns of emperors Septimius Severus and Caracalla. They were in operation until the 530s and then fell into disuse and ruin.\nBoth during and since their operation as baths, they served as inspiration for many other notable buildings, ancient and modern, such as the Baths of Diocletian, the Basilica of Maxentius, the original Pennsylvania Station in New York City, Chicago Union Station and the Senate of Canada Building. Artworks recovered from the ruins include famous sculptures such as the Farnese Bull and the Farnese Hercules.\nToday the Baths of Caracalla are a tourist attraction.\n\n",
+      "excerpt": "The Baths of Caracalla (Italian: Terme di Caracalla) in Rome, Italy, were the city's second largest Roman public baths, or thermae, after the Baths of Diocletian. The baths were likely built between A...",
+      "images": [
+         "https://live.staticflickr.com/65535/52486385926_43f8952821.jpg",
+         "https://live.staticflickr.com/65535/52485058933_f14ac33d81.jpg",
+         "https://live.staticflickr.com/65535/52483586613_67f6716368.jpg",
+         "https://live.staticflickr.com/65535/52483037111_ac5771aa2c.jpg",
+         "https://live.staticflickr.com/65535/52461575735_213a24ec47.jpg",
+         "https://live.staticflickr.com/65535/52444011090_5126214763.jpg",
+         "https://live.staticflickr.com/65535/52438470422_b0ef7b6ac1.jpg",
+         "https://live.staticflickr.com/65535/52439437153_bcec7c5c4c.jpg",
+         "https://live.staticflickr.com/65535/52437172466_a165b8b4dd.jpg",
+         "https://live.staticflickr.com/65535/52435454286_61f317cdc6.jpg"
+      ],
+      "nearbyCoffeeShops": [
+         {
+            "name": "Laterano Caffè",
+            "placeId": "ChIJ8RaPvr9hLxMRl23iJm_7RD0",
+            "vicinity": "P.za di S. Giovanni in Laterano, 52, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8873857,
+               "lng": 12.5051198
+            },
+            "priceLevel": 1
+         }
+      ],
+      "nearbyHospitals": [
+         {
+            "name": "San Giovanni Addolorata Hospital",
+            "placeId": "ChIJu2EuvcBhLxMRKtAx3I4PLl0",
+            "vicinity": "Via dell'Amba Aradam, 8, Roma",
+            "rating": 3.1,
+            "location": {
+               "lat": 41.885814,
+               "lng": 12.5022441
+            }
+         },
+         {
+            "name": "Fatebenefratelli Isola Tiberina",
+            "placeId": "ChIJcVd2wzlgLxMRzPlKO7ImW3k",
+            "vicinity": "Via di Ponte Quattro capi, 39, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8908802,
+               "lng": 12.4769801
+            }
+         },
+         {
+            "name": "Ospedale delle Donne",
+            "placeId": "ChIJ4QYCkVNhLxMRwsaUVCXDRTQ",
+            "vicinity": "P.za di S. Giovanni in Laterano, 74, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8873003,
+               "lng": 12.5037861
+            }
+         },
+         {
+            "name": "Celio Military Hospital",
+            "placeId": "ChIJA3S6-cdhLxMRg1hkjU-Oh_M",
+            "vicinity": "Piazza Celimontana, 50, Roma",
+            "rating": 3.5,
+            "location": {
+               "lat": 41.8867943,
+               "lng": 12.4960844
+            }
+         }
+      ]
+   },
+   {
+      "name": "Borghese Gallery and Museum",
+      "city": "rome",
+      "location": {
+         "lat": 41.9142103,
+         "lng": 12.4921442
+      },
+      "avgRating": 4.6,
+      "totalRatings": 17849,
+      "body": "",
+      "excerpt": "...",
+      "images": [
+         "https://live.staticflickr.com/65535/52483045641_2f7464c5f5.jpg",
+         "https://live.staticflickr.com/65535/52482548237_f172ce0870.jpg",
+         "https://live.staticflickr.com/65535/52482547872_b458f1451f.jpg",
+         "https://live.staticflickr.com/65535/52483591473_00e9bba8be.jpg",
+         "https://live.staticflickr.com/65535/52483315514_b01178cb58.jpg",
+         "https://live.staticflickr.com/65535/52483503620_1958d154c9.jpg",
+         "https://live.staticflickr.com/65535/52483588013_bf49e5b6d3.jpg",
+         "https://live.staticflickr.com/65535/52483039701_3f9eed7425.jpg",
+         "https://live.staticflickr.com/65535/52482541347_40f31c79ef.jpg",
+         "https://live.staticflickr.com/65535/52483038396_ae098dbbf8.jpg"
+      ],
+      "nearbyCoffeeShops": [
+         {
+            "name": "Faro - Luminaries of Coffee",
+            "placeId": "ChIJO2OdIAlhLxMRV3acpzJo9ls",
+            "vicinity": "Via Piave, 55, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.9101357,
+               "lng": 12.4984435
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Trecaffè",
+            "placeId": "ChIJ0676XKthLxMRih_hbyWnTQ8",
+            "vicinity": "Via dei Due Macelli, 107, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.9033525,
+               "lng": 12.4851436
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Antico Caffè Greco",
+            "placeId": "ChIJ2d0BD1VgLxMRNdZSWGk2gXQ",
+            "vicinity": "Via dei Condotti, 86, Roma",
+            "rating": 4,
+            "location": {
+               "lat": 41.9055606,
+               "lng": 12.4814639
+            },
+            "priceLevel": 4
+         },
+         {
+            "name": "Caffè Lembo",
+            "placeId": "ChIJMRc24qphLxMRJYbkNpVhVps",
+            "vicinity": "Via Francesco Crispi, 95, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.9053694,
+               "lng": 12.4857751
+            }
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJGwCOTKphLxMR1WpJpK83nFI",
+            "vicinity": "Via Vittorio Veneto, 24, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.9048986,
+               "lng": 12.4878697
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "McCafé",
+            "placeId": "ChIJoYTJz1RgLxMRhGnbhN6HH-Q",
+            "vicinity": "Piazza di Spagna, 46, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9047271,
+               "lng": 12.4834821
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Moma Caffè",
+            "placeId": "ChIJ4SG56gBhLxMReyN9GAyti7Q",
+            "vicinity": "Via Lazio, 17, Roma",
+            "rating": 4.4,
+            "location": {
+               "lat": 41.9087222,
+               "lng": 12.488211
+            }
+         }
+      ],
+      "nearbyHospitals": [
+         {
+            "name": "Azienda Ospedaliera Policlinico Umberto I",
+            "placeId": "ChIJraUgobthLxMRFb9FVLgfEtA",
+            "vicinity": "Viale del Policlinico, 155, Roma",
+            "rating": 4.3,
+            "location": {
+               "lat": 41.9079755,
+               "lng": 12.5099111
+            }
+         }
+      ]
+   },
+   {
+      "name": "Basilica Papale di Santa Maria Maggiore",
+      "city": "rome",
+      "location": {
+         "lat": 41.89759859999999,
+         "lng": 12.4984084
+      },
+      "avgRating": 4.8,
+      "totalRatings": 26628,
+      "body": "",
+      "excerpt": "undefined...",
+      "images": [
+         "https://live.staticflickr.com/65535/52493518927_420bc0279d.jpg",
+         "https://live.staticflickr.com/65535/52494284909_61f3f80f8f.jpg",
+         "https://live.staticflickr.com/65535/52482548917_04a8745c19.jpg",
+         "https://live.staticflickr.com/65535/52483045641_2f7464c5f5.jpg",
+         "https://live.staticflickr.com/65535/52482548237_f172ce0870.jpg",
+         "https://live.staticflickr.com/65535/52483591473_00e9bba8be.jpg",
+         "https://live.staticflickr.com/65535/52482541347_40f31c79ef.jpg",
+         "https://live.staticflickr.com/65535/52483307609_8ecbc6339e.jpg",
+         "https://live.staticflickr.com/65535/52481578020_78ef057502.jpg",
+         "https://live.staticflickr.com/65535/52480614707_df9bb46555.jpg"
+      ],
+      "nearbyCoffeeShops": [
+         {
+            "name": "Caffè Roma",
+            "placeId": "ChIJz6eMf99hLxMRObJtGFSS1PY",
+            "vicinity": "Via del Colosseo, 31, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.891608,
+               "lng": 12.4909512
+            }
+         },
+         {
+            "name": "Caffè Roma Antica Enoteca",
+            "placeId": "ChIJXeytyrJhLxMRI-JDY4MDewg",
+            "vicinity": "Via di S. Eufemia, 5, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.896869,
+               "lng": 12.4839637
+            }
+         },
+         {
+            "name": "Bar Fondi",
+            "placeId": "ChIJS0HRoaFhLxMRCbAQa_a6x0c",
+            "vicinity": "Via Milazzo, 16, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.9019761,
+               "lng": 12.5042519
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Trecaffè",
+            "placeId": "ChIJ0676XKthLxMRih_hbyWnTQ8",
+            "vicinity": "Via dei Due Macelli, 107, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.9033525,
+               "lng": 12.4851436
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Lembo",
+            "placeId": "ChIJMRc24qphLxMRJYbkNpVhVps",
+            "vicinity": "Via Francesco Crispi, 95, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.9053694,
+               "lng": 12.4857751
+            }
+         },
+         {
+            "name": "Riccardo Taliani Banqueting",
+            "placeId": "ChIJQaU7U65hLxMRwxctNcoy-b4",
+            "vicinity": "Via Genova, 26, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.8992618,
+               "lng": 12.4922702
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Laterano Caffè",
+            "placeId": "ChIJ8RaPvr9hLxMRl23iJm_7RD0",
+            "vicinity": "P.za di S. Giovanni in Laterano, 52, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8873857,
+               "lng": 12.5051198
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJGwCOTKphLxMR1WpJpK83nFI",
+            "vicinity": "Via Vittorio Veneto, 24, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.9048986,
+               "lng": 12.4878697
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "McCafé",
+            "placeId": "ChIJoYTJz1RgLxMRhGnbhN6HH-Q",
+            "vicinity": "Piazza di Spagna, 46, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9047271,
+               "lng": 12.4834821
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "La Licata",
+            "placeId": "ChIJYROAc7FhLxMRPuswi72QEBw",
+            "vicinity": "Via dei Serpenti, 165, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8946536,
+               "lng": 12.4909007
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Er Baretto",
+            "placeId": "ChIJ71hdlrFhLxMRgTxcHD7sdVg",
+            "vicinity": "Via del Boschetto, 132, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.895686,
+               "lng": 12.4908905
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Materia Cafe",
+            "placeId": "ChIJgxnu-pRhLxMRQ_fRLRg-UpM",
+            "vicinity": "Via Andrea Provana, 7, Roma",
+            "rating": 4.4,
+            "location": {
+               "lat": 41.887451,
+               "lng": 12.5102964
+            },
+            "priceLevel": 2
+         }
+      ],
+      "nearbyHospitals": [
+         {
+            "name": "San Giovanni Addolorata Hospital",
+            "placeId": "ChIJu2EuvcBhLxMRKtAx3I4PLl0",
+            "vicinity": "Via dell'Amba Aradam, 8, Roma",
+            "rating": 3.1,
+            "location": {
+               "lat": 41.885814,
+               "lng": 12.5022441
+            }
+         },
+         {
+            "name": "Azienda Ospedaliera Policlinico Umberto I",
+            "placeId": "ChIJraUgobthLxMRFb9FVLgfEtA",
+            "vicinity": "Viale del Policlinico, 155, Roma",
+            "rating": 4.3,
+            "location": {
+               "lat": 41.9079755,
+               "lng": 12.5099111
+            }
+         },
+         {
+            "name": "Ospedale delle Donne",
+            "placeId": "ChIJ4QYCkVNhLxMRwsaUVCXDRTQ",
+            "vicinity": "P.za di S. Giovanni in Laterano, 74, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8873003,
+               "lng": 12.5037861
+            }
+         },
+         {
+            "name": "Celio Military Hospital",
+            "placeId": "ChIJA3S6-cdhLxMRg1hkjU-Oh_M",
+            "vicinity": "Piazza Celimontana, 50, Roma",
+            "rating": 3.5,
+            "location": {
+               "lat": 41.8867943,
+               "lng": 12.4960844
+            }
+         },
+         {
+            "name": "Policlinico Umberto Primo Neonatology",
+            "placeId": "ChIJOZrYhXZhLxMRsuZyO8HjKbw",
+            "vicinity": "Viale Regina Elena, 324, Roma",
+            "rating": 4.4,
+            "location": {
+               "lat": 41.9068865,
+               "lng": 12.5135533
+            }
+         }
+      ]
+   },
+   {
+      "name": "Campo de' Fiori",
+      "city": "rome",
+      "location": {
+         "lat": 41.8957407,
+         "lng": 12.4718483
+      },
+      "avgRating": 4.4,
+      "totalRatings": 49522,
+      "body": "Campo de' Fiori (Italian: [ˈkampo de ˈfjoːri], literally \"field of flowers\") is a rectangular square south of Piazza Navona in Rome, Italy, at the border between rione Parione and rione Regola. It is diagonally southeast of the Palazzo della Cancelleria and one block northeast of the Palazzo Farnese. Campo de' Fiori, translated literally from Italian, means \"field of flowers\". The name dates to the Middle Ages when the area was a meadow.",
+      "excerpt": "Campo de' Fiori (Italian: [ˈkampo de ˈfjoːri], literally \"field of flowers\") is a rectangular square south of Piazza Navona in Rome, Italy, at the border between rione Parione and rione Regola. It is ...",
+      "images": [
+         "https://live.staticflickr.com/65535/52494504551_083babb5c6.jpg",
+         "https://live.staticflickr.com/65535/52494507186_32db2ded7d.jpg",
+         "https://live.staticflickr.com/65535/52494507091_0e260b6069.jpg",
+         "https://live.staticflickr.com/65535/52495064148_5a2cb5c258.jpg",
+         "https://live.staticflickr.com/65535/52494981310_bb5f27d47c.jpg",
+         "https://live.staticflickr.com/65535/52494790914_d2b533425a.jpg",
+         "https://live.staticflickr.com/65535/52494002791_087d9b2f2c.jpg",
+         "https://live.staticflickr.com/65535/52487134037_9a95444698.jpg",
+         "https://live.staticflickr.com/65535/52486304299_9c20c98ee1.jpg",
+         "https://live.staticflickr.com/65535/52485348936_8c96b3d73b.jpg"
+      ],
+      "nearbyCoffeeShops": [
+         {
+            "name": "La Casa del Caffè Tazza d'Oro",
+            "placeId": "ChIJxY4y7lFgLxMRTCTRu-sodxk",
+            "vicinity": "Via degli Orfani, 84, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.899434,
+               "lng": 12.477407
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Roma Antica Enoteca",
+            "placeId": "ChIJXeytyrJhLxMRI-JDY4MDewg",
+            "vicinity": "Via di S. Eufemia, 5, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.896869,
+               "lng": 12.4839637
+            }
+         },
+         {
+            "name": "Sant' Eustachio Il Caffè",
+            "placeId": "ChIJF4C_0k9gLxMR2LL_-I4HSWU",
+            "vicinity": "Piazza di S. Eustachio, 82, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.8982901,
+               "lng": 12.475425
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Roscioli Caffè Pasticceria",
+            "placeId": "ChIJZ846zUhgLxMRzdyZ615Fc4Q",
+            "vicinity": "Piazza Benedetto Cairoli, 16, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.8941457,
+               "lng": 12.4744403
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Antico Caffè Greco",
+            "placeId": "ChIJ2d0BD1VgLxMRNdZSWGk2gXQ",
+            "vicinity": "Via dei Condotti, 86, Roma",
+            "rating": 4,
+            "location": {
+               "lat": 41.9055606,
+               "lng": 12.4814639
+            },
+            "priceLevel": 4
+         },
+         {
+            "name": "Trecaffè",
+            "placeId": "ChIJ0676XKthLxMRih_hbyWnTQ8",
+            "vicinity": "Via dei Due Macelli, 107, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.9033525,
+               "lng": 12.4851436
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Lembo",
+            "placeId": "ChIJMRc24qphLxMRJYbkNpVhVps",
+            "vicinity": "Via Francesco Crispi, 95, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.9053694,
+               "lng": 12.4857751
+            }
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJQxlbiExgLxMRdWOCUgmo--w",
+            "vicinity": "Piazza d'Aracoeli, 4, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.8941698,
+               "lng": 12.4811866
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Gran Caffè Rione VIII",
+            "placeId": "ChIJ-7RwMElgLxMRzDJygOyOtrE",
+            "vicinity": "Via di S. Maria del Pianto, 59, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.893531,
+               "lng": 12.4761652
+            }
+         },
+         {
+            "name": "McCafé",
+            "placeId": "ChIJoYTJz1RgLxMRhGnbhN6HH-Q",
+            "vicinity": "Piazza di Spagna, 46, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9047271,
+               "lng": 12.4834821
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffe Roma Gelateria",
+            "placeId": "ChIJceRhY1NhLxMRsgrGB0itNUE",
+            "vicinity": "Piazza di Trevi, 99, Roma",
+            "rating": 2,
+            "location": {
+               "lat": 41.900787,
+               "lng": 12.4830152
+            }
+         },
+         {
+            "name": "Zer0ttoNove Café et Caffé",
+            "placeId": "ChIJndKYLU5gLxMR2zFpIIyu3Q8",
+            "vicinity": "Piazza di S. Eustachio, 50, Roma",
+            "rating": 3.9,
+            "location": {
+               "lat": 41.8984431,
+               "lng": 12.4755229
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Settimiano di Mella Valter e C. S.a.s.",
+            "placeId": "ChIJfVsyJEdgLxMR4nUqnExOMJM",
+            "vicinity": "Via di Porta Settimiana, 1, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.8920614,
+               "lng": 12.4676232
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Opere & Caffé",
+            "placeId": "ChIJKUB51klgLxMRqjKvjwAJH-M",
+            "vicinity": "Via della Lungaretta, 18, Roma",
+            "rating": 4.3,
+            "location": {
+               "lat": 41.8893277,
+               "lng": 12.4757025
+            }
+         },
+         {
+            "name": "Gran Caffè La Caffettiera",
+            "placeId": "ChIJJbK-PVJgLxMRM1dzchSlMj4",
+            "vicinity": "P.za di Pietra, 65, Roma",
+            "rating": 4,
+            "location": {
+               "lat": 41.9000741,
+               "lng": 12.4799216
+            },
+            "priceLevel": 2
+         }
+      ],
+      "nearbyHospitals": [
+         {
+            "name": "Fatebenefratelli Isola Tiberina",
+            "placeId": "ChIJcVd2wzlgLxMRzPlKO7ImW3k",
+            "vicinity": "Via di Ponte Quattro capi, 39, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8908802,
+               "lng": 12.4769801
+            }
+         },
+         {
+            "name": "Santo Spirito In Sassia Hospital",
+            "placeId": "ChIJsd__OV1gLxMRzh_Ep1m_LPU",
+            "vicinity": "Lungotevere in Sassia, 1, Roma",
+            "rating": 3.6,
+            "location": {
+               "lat": 41.9009578,
+               "lng": 12.4622703
+            }
+         },
+         {
+            "name": "Ospedale Nuovo Regina Margherita",
+            "placeId": "ChIJpwSU-qRhLxMR8cousDNGw1w",
+            "vicinity": "Viale di Trastevere, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.885921,
+               "lng": 12.4707913
+            }
+         },
+         {
+            "name": "Ospedale",
+            "placeId": "ChIJPbL-ABFhLxMRxLxA8C1eOuA",
+            "vicinity": "Piazza di Sant'Onofrio, 4, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.8968303,
+               "lng": 12.4608206
+            }
+         },
+         {
+            "name": "Bambino Gesù Children's Hospital",
+            "placeId": "ChIJDY8LeUJgLxMR1VdZtjuE6m4",
+            "vicinity": "Piazza di Sant'Onofrio, 4, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8967164,
+               "lng": 12.4609553
+            }
+         },
+         {
+            "name": "Presidio Nuovo Regina Margherita",
+            "placeId": "ChIJWR2rnjlgLxMROzDwQnffICo",
+            "vicinity": "Via Roma Libera, 76, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.88615799999999,
+               "lng": 12.4695537
+            }
+         },
+         {
+            "name": "Ospedale Del Vaticano",
+            "placeId": "ChIJk_ILcq5hLxMRTXC9NUimsXM",
+            "vicinity": "Via della Conciliazione, 8, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9025937,
+               "lng": 12.4627176
+            }
+         }
+      ]
+   },
+   {
+      "name": "Basilica di San Giovanni in Laterano",
+      "city": "rome",
+      "location": {
+         "lat": 41.8858811,
+         "lng": 12.505673
+      },
+      "avgRating": 4.8,
+      "totalRatings": 20816,
+      "body": "",
+      "excerpt": "undefined...",
+      "images": [
+         "https://live.staticflickr.com/65535/52494791754_c42e8460b5.jpg",
+         "https://live.staticflickr.com/65535/52494024797_ee4ce529d2.jpg",
+         "https://live.staticflickr.com/65535/52494981310_bb5f27d47c.jpg",
+         "https://live.staticflickr.com/65535/52492548412_baecaa68ed.jpg",
+         "https://live.staticflickr.com/65535/52488927314_918975cd90.jpg",
+         "https://live.staticflickr.com/65535/52486304299_9c20c98ee1.jpg",
+         "https://live.staticflickr.com/65535/52485058933_f14ac33d81.jpg",
+         "https://live.staticflickr.com/65535/52483507680_f56022ef0c.jpg",
+         "https://live.staticflickr.com/65535/52483586613_67f6716368.jpg",
+         "https://live.staticflickr.com/65535/52482542067_5726d4fb8c.jpg"
+      ],
+      "nearbyCoffeeShops": [
+         {
+            "name": "Caffè Roma",
+            "placeId": "ChIJz6eMf99hLxMRObJtGFSS1PY",
+            "vicinity": "Via del Colosseo, 31, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.891608,
+               "lng": 12.4909512
+            }
+         },
+         {
+            "name": "Laterano Caffè",
+            "placeId": "ChIJ8RaPvr9hLxMRl23iJm_7RD0",
+            "vicinity": "P.za di S. Giovanni in Laterano, 52, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8873857,
+               "lng": 12.5051198
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Italia",
+            "placeId": "ChIJWxwUxpNhLxMRjAWJqAJSeMc",
+            "vicinity": "Via di S. Croce in Gerusalemme, 6, Roma",
+            "rating": 4.3,
+            "location": {
+               "lat": 41.8890993,
+               "lng": 12.5144753
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "La Licata",
+            "placeId": "ChIJYROAc7FhLxMRPuswi72QEBw",
+            "vicinity": "Via dei Serpenti, 165, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8946536,
+               "lng": 12.4909007
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Er Baretto",
+            "placeId": "ChIJ71hdlrFhLxMRgTxcHD7sdVg",
+            "vicinity": "Via del Boschetto, 132, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.895686,
+               "lng": 12.4908905
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Materia Cafe",
+            "placeId": "ChIJgxnu-pRhLxMRQ_fRLRg-UpM",
+            "vicinity": "Via Andrea Provana, 7, Roma",
+            "rating": 4.4,
+            "location": {
+               "lat": 41.887451,
+               "lng": 12.5102964
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Bar Trani",
+            "placeId": "ChIJSQoLn71hLxMRE8HdIylqvMM",
+            "vicinity": "Via Emanuele Filiberto, 8, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.8930401,
+               "lng": 12.5055275
+            },
+            "priceLevel": 1
+         }
+      ],
+      "nearbyHospitals": [
+         {
+            "name": "San Giovanni Addolorata Hospital",
+            "placeId": "ChIJu2EuvcBhLxMRKtAx3I4PLl0",
+            "vicinity": "Via dell'Amba Aradam, 8, Roma",
+            "rating": 3.1,
+            "location": {
+               "lat": 41.885814,
+               "lng": 12.5022441
+            }
+         },
+         {
+            "name": "Ospedale delle Donne",
+            "placeId": "ChIJ4QYCkVNhLxMRwsaUVCXDRTQ",
+            "vicinity": "P.za di S. Giovanni in Laterano, 74, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8873003,
+               "lng": 12.5037861
+            }
+         },
+         {
+            "name": "Celio Military Hospital",
+            "placeId": "ChIJA3S6-cdhLxMRg1hkjU-Oh_M",
+            "vicinity": "Piazza Celimontana, 50, Roma",
+            "rating": 3.5,
+            "location": {
+               "lat": 41.8867943,
+               "lng": 12.4960844
+            }
+         }
+      ]
+   },
+   {
+      "name": "Le Domus Romane di Palazzo Valentini",
+      "city": "rome",
+      "location": {
+         "lat": 41.8960502,
+         "lng": 12.484071
+      },
+      "avgRating": 4.7,
+      "totalRatings": 1297,
+      "body": "",
+      "excerpt": "...",
+      "images": [
+         "https://live.staticflickr.com/65535/52495062978_5b15430141.jpg",
+         "https://live.staticflickr.com/65535/52494025862_46c7f19cbf.jpg",
+         "https://live.staticflickr.com/65535/52494981345_e4c7061acb.jpg",
+         "https://live.staticflickr.com/65535/52494790914_d2b533425a.jpg",
+         "https://live.staticflickr.com/65535/52494504906_e97b6e0901.jpg",
+         "https://live.staticflickr.com/65535/52493498490_6431f7db31.jpg",
+         "https://live.staticflickr.com/65535/52487134037_9a95444698.jpg",
+         "https://live.staticflickr.com/65535/52487062075_b616b7f595.jpg",
+         "https://live.staticflickr.com/65535/52483037111_ac5771aa2c.jpg",
+         "https://live.staticflickr.com/65535/52483568568_3daca59c2b.jpg"
+      ],
+      "nearbyCoffeeShops": [
+         {
+            "name": "La Casa del Caffè Tazza d'Oro",
+            "placeId": "ChIJxY4y7lFgLxMRTCTRu-sodxk",
+            "vicinity": "Via degli Orfani, 84, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.899434,
+               "lng": 12.477407
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Roma",
+            "placeId": "ChIJz6eMf99hLxMRObJtGFSS1PY",
+            "vicinity": "Via del Colosseo, 31, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.891608,
+               "lng": 12.4909512
+            }
+         },
+         {
+            "name": "Caffè Roma Antica Enoteca",
+            "placeId": "ChIJXeytyrJhLxMRI-JDY4MDewg",
+            "vicinity": "Via di S. Eufemia, 5, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.896869,
+               "lng": 12.4839637
+            }
+         },
+         {
+            "name": "Sant' Eustachio Il Caffè",
+            "placeId": "ChIJF4C_0k9gLxMR2LL_-I4HSWU",
+            "vicinity": "Piazza di S. Eustachio, 82, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.8982901,
+               "lng": 12.475425
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Roscioli Caffè Pasticceria",
+            "placeId": "ChIJZ846zUhgLxMRzdyZ615Fc4Q",
+            "vicinity": "Piazza Benedetto Cairoli, 16, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.8941457,
+               "lng": 12.4744403
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Antico Caffè Greco",
+            "placeId": "ChIJ2d0BD1VgLxMRNdZSWGk2gXQ",
+            "vicinity": "Via dei Condotti, 86, Roma",
+            "rating": 4,
+            "location": {
+               "lat": 41.9055606,
+               "lng": 12.4814639
+            },
+            "priceLevel": 4
+         },
+         {
+            "name": "Trecaffè",
+            "placeId": "ChIJ0676XKthLxMRih_hbyWnTQ8",
+            "vicinity": "Via dei Due Macelli, 107, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.9033525,
+               "lng": 12.4851436
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJQxlbiExgLxMRdWOCUgmo--w",
+            "vicinity": "Piazza d'Aracoeli, 4, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.8941698,
+               "lng": 12.4811866
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Caffè Lembo",
+            "placeId": "ChIJMRc24qphLxMRJYbkNpVhVps",
+            "vicinity": "Via Francesco Crispi, 95, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.9053694,
+               "lng": 12.4857751
+            }
+         },
+         {
+            "name": "Riccardo Taliani Banqueting",
+            "placeId": "ChIJQaU7U65hLxMRwxctNcoy-b4",
+            "vicinity": "Via Genova, 26, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.8992618,
+               "lng": 12.4922702
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Gran Caffè Rione VIII",
+            "placeId": "ChIJ-7RwMElgLxMRzDJygOyOtrE",
+            "vicinity": "Via di S. Maria del Pianto, 59, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.893531,
+               "lng": 12.4761652
+            }
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJGwCOTKphLxMR1WpJpK83nFI",
+            "vicinity": "Via Vittorio Veneto, 24, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.9048986,
+               "lng": 12.4878697
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "McCafé",
+            "placeId": "ChIJoYTJz1RgLxMRhGnbhN6HH-Q",
+            "vicinity": "Piazza di Spagna, 46, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9047271,
+               "lng": 12.4834821
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "La Licata",
+            "placeId": "ChIJYROAc7FhLxMRPuswi72QEBw",
+            "vicinity": "Via dei Serpenti, 165, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8946536,
+               "lng": 12.4909007
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffe Roma Gelateria",
+            "placeId": "ChIJceRhY1NhLxMRsgrGB0itNUE",
+            "vicinity": "Piazza di Trevi, 99, Roma",
+            "rating": 2,
+            "location": {
+               "lat": 41.900787,
+               "lng": 12.4830152
+            }
+         },
+         {
+            "name": "Er Baretto",
+            "placeId": "ChIJ71hdlrFhLxMRgTxcHD7sdVg",
+            "vicinity": "Via del Boschetto, 132, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.895686,
+               "lng": 12.4908905
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Zer0ttoNove Café et Caffé",
+            "placeId": "ChIJndKYLU5gLxMR2zFpIIyu3Q8",
+            "vicinity": "Piazza di S. Eustachio, 50, Roma",
+            "rating": 3.9,
+            "location": {
+               "lat": 41.8984431,
+               "lng": 12.4755229
+            },
+            "priceLevel": 1
+         }
+      ],
+      "nearbyHospitals": [
+         {
+            "name": "San Giovanni Addolorata Hospital",
+            "placeId": "ChIJu2EuvcBhLxMRKtAx3I4PLl0",
+            "vicinity": "Via dell'Amba Aradam, 8, Roma",
+            "rating": 3.1,
+            "location": {
+               "lat": 41.885814,
+               "lng": 12.5022441
+            }
+         },
+         {
+            "name": "Fatebenefratelli Isola Tiberina",
+            "placeId": "ChIJcVd2wzlgLxMRzPlKO7ImW3k",
+            "vicinity": "Via di Ponte Quattro capi, 39, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8908802,
+               "lng": 12.4769801
+            }
+         },
+         {
+            "name": "Ospedale Nuovo Regina Margherita",
+            "placeId": "ChIJpwSU-qRhLxMR8cousDNGw1w",
+            "vicinity": "Viale di Trastevere, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.885921,
+               "lng": 12.4707913
+            }
+         },
+         {
+            "name": "Ospedale delle Donne",
+            "placeId": "ChIJ4QYCkVNhLxMRwsaUVCXDRTQ",
+            "vicinity": "P.za di S. Giovanni in Laterano, 74, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8873003,
+               "lng": 12.5037861
+            }
+         },
+         {
+            "name": "Celio Military Hospital",
+            "placeId": "ChIJA3S6-cdhLxMRg1hkjU-Oh_M",
+            "vicinity": "Piazza Celimontana, 50, Roma",
+            "rating": 3.5,
+            "location": {
+               "lat": 41.8867943,
+               "lng": 12.4960844
+            }
+         },
+         {
+            "name": "Presidio Nuovo Regina Margherita",
+            "placeId": "ChIJWR2rnjlgLxMROzDwQnffICo",
+            "vicinity": "Via Roma Libera, 76, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.88615799999999,
+               "lng": 12.4695537
+            }
+         }
+      ]
+   },
+   {
+      "name": "Doria Pamphili Gallery",
+      "city": "rome",
+      "location": {
+         "lat": 41.8979761,
+         "lng": 12.4815652
+      },
+      "avgRating": 4.6,
+      "totalRatings": 4412,
+      "body": "",
+      "excerpt": "undefined...",
+      "images": [
+         "https://live.staticflickr.com/65535/52494979520_eef7608402.jpg",
+         "https://live.staticflickr.com/65535/52494507091_0e260b6069.jpg",
+         "https://live.staticflickr.com/65535/52494025117_5a44acb692.jpg",
+         "https://live.staticflickr.com/65535/52494284954_d2f2d2dfb2.jpg",
+         "https://live.staticflickr.com/65535/52492548412_baecaa68ed.jpg",
+         "https://live.staticflickr.com/65535/52489122450_c2a748f0ac.jpg",
+         "https://live.staticflickr.com/65535/52485058933_f14ac33d81.jpg",
+         "https://live.staticflickr.com/65535/52483639133_6b7f56a213.jpg",
+         "https://live.staticflickr.com/65535/52482548587_23863b06d5.jpg",
+         "https://live.staticflickr.com/65535/52483507680_f56022ef0c.jpg"
+      ],
+      "nearbyCoffeeShops": [
+         {
+            "name": "La Casa del Caffè Tazza d'Oro",
+            "placeId": "ChIJxY4y7lFgLxMRTCTRu-sodxk",
+            "vicinity": "Via degli Orfani, 84, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.899434,
+               "lng": 12.477407
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Roma",
+            "placeId": "ChIJz6eMf99hLxMRObJtGFSS1PY",
+            "vicinity": "Via del Colosseo, 31, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.891608,
+               "lng": 12.4909512
+            }
+         },
+         {
+            "name": "Caffè Roma Antica Enoteca",
+            "placeId": "ChIJXeytyrJhLxMRI-JDY4MDewg",
+            "vicinity": "Via di S. Eufemia, 5, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.896869,
+               "lng": 12.4839637
+            }
+         },
+         {
+            "name": "Sant' Eustachio Il Caffè",
+            "placeId": "ChIJF4C_0k9gLxMR2LL_-I4HSWU",
+            "vicinity": "Piazza di S. Eustachio, 82, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.8982901,
+               "lng": 12.475425
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Roscioli Caffè Pasticceria",
+            "placeId": "ChIJZ846zUhgLxMRzdyZ615Fc4Q",
+            "vicinity": "Piazza Benedetto Cairoli, 16, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.8941457,
+               "lng": 12.4744403
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Antico Caffè Greco",
+            "placeId": "ChIJ2d0BD1VgLxMRNdZSWGk2gXQ",
+            "vicinity": "Via dei Condotti, 86, Roma",
+            "rating": 4,
+            "location": {
+               "lat": 41.9055606,
+               "lng": 12.4814639
+            },
+            "priceLevel": 4
+         },
+         {
+            "name": "Caffè Portofino",
+            "placeId": "ChIJI2YIy1hgLxMRkfL88yosIdM",
+            "vicinity": "Piazza Cola di Rienzo, 116, Roma",
+            "rating": 4.3,
+            "location": {
+               "lat": 41.9081313,
+               "lng": 12.4670268
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Trecaffè",
+            "placeId": "ChIJ0676XKthLxMRih_hbyWnTQ8",
+            "vicinity": "Via dei Due Macelli, 107, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.9033525,
+               "lng": 12.4851436
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJQxlbiExgLxMRdWOCUgmo--w",
+            "vicinity": "Piazza d'Aracoeli, 4, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.8941698,
+               "lng": 12.4811866
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Caffè Lembo",
+            "placeId": "ChIJMRc24qphLxMRJYbkNpVhVps",
+            "vicinity": "Via Francesco Crispi, 95, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.9053694,
+               "lng": 12.4857751
+            }
+         },
+         {
+            "name": "Riccardo Taliani Banqueting",
+            "placeId": "ChIJQaU7U65hLxMRwxctNcoy-b4",
+            "vicinity": "Via Genova, 26, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.8992618,
+               "lng": 12.4922702
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Gran Caffè Rione VIII",
+            "placeId": "ChIJ-7RwMElgLxMRzDJygOyOtrE",
+            "vicinity": "Via di S. Maria del Pianto, 59, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.893531,
+               "lng": 12.4761652
+            }
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJGwCOTKphLxMR1WpJpK83nFI",
+            "vicinity": "Via Vittorio Veneto, 24, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.9048986,
+               "lng": 12.4878697
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "McCafé",
+            "placeId": "ChIJoYTJz1RgLxMRhGnbhN6HH-Q",
+            "vicinity": "Piazza di Spagna, 46, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9047271,
+               "lng": 12.4834821
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "La Licata",
+            "placeId": "ChIJYROAc7FhLxMRPuswi72QEBw",
+            "vicinity": "Via dei Serpenti, 165, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8946536,
+               "lng": 12.4909007
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffe Roma Gelateria",
+            "placeId": "ChIJceRhY1NhLxMRsgrGB0itNUE",
+            "vicinity": "Piazza di Trevi, 99, Roma",
+            "rating": 2,
+            "location": {
+               "lat": 41.900787,
+               "lng": 12.4830152
+            }
+         },
+         {
+            "name": "Er Baretto",
+            "placeId": "ChIJ71hdlrFhLxMRgTxcHD7sdVg",
+            "vicinity": "Via del Boschetto, 132, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.895686,
+               "lng": 12.4908905
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Zer0ttoNove Café et Caffé",
+            "placeId": "ChIJndKYLU5gLxMR2zFpIIyu3Q8",
+            "vicinity": "Piazza di S. Eustachio, 50, Roma",
+            "rating": 3.9,
+            "location": {
+               "lat": 41.8984431,
+               "lng": 12.4755229
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Settimiano di Mella Valter e C. S.a.s.",
+            "placeId": "ChIJfVsyJEdgLxMR4nUqnExOMJM",
+            "vicinity": "Via di Porta Settimiana, 1, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.8920614,
+               "lng": 12.4676232
+            },
+            "priceLevel": 1
+         }
+      ],
+      "nearbyHospitals": [
+         {
+            "name": "San Giovanni Addolorata Hospital",
+            "placeId": "ChIJu2EuvcBhLxMRKtAx3I4PLl0",
+            "vicinity": "Via dell'Amba Aradam, 8, Roma",
+            "rating": 3.1,
+            "location": {
+               "lat": 41.885814,
+               "lng": 12.5022441
+            }
+         },
+         {
+            "name": "Fatebenefratelli Isola Tiberina",
+            "placeId": "ChIJcVd2wzlgLxMRzPlKO7ImW3k",
+            "vicinity": "Via di Ponte Quattro capi, 39, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8908802,
+               "lng": 12.4769801
+            }
+         },
+         {
+            "name": "Santo Spirito In Sassia Hospital",
+            "placeId": "ChIJsd__OV1gLxMRzh_Ep1m_LPU",
+            "vicinity": "Lungotevere in Sassia, 1, Roma",
+            "rating": 3.6,
+            "location": {
+               "lat": 41.9009578,
+               "lng": 12.4622703
+            }
+         },
+         {
+            "name": "Ospedale Nuovo Regina Margherita",
+            "placeId": "ChIJpwSU-qRhLxMR8cousDNGw1w",
+            "vicinity": "Viale di Trastevere, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.885921,
+               "lng": 12.4707913
+            }
+         },
+         {
+            "name": "Ospedale",
+            "placeId": "ChIJPbL-ABFhLxMRxLxA8C1eOuA",
+            "vicinity": "Piazza di Sant'Onofrio, 4, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.8968303,
+               "lng": 12.4608206
+            }
+         },
+         {
+            "name": "Celio Military Hospital",
+            "placeId": "ChIJA3S6-cdhLxMRg1hkjU-Oh_M",
+            "vicinity": "Piazza Celimontana, 50, Roma",
+            "rating": 3.5,
+            "location": {
+               "lat": 41.8867943,
+               "lng": 12.4960844
+            }
+         },
+         {
+            "name": "Bambino Gesù Children's Hospital",
+            "placeId": "ChIJDY8LeUJgLxMR1VdZtjuE6m4",
+            "vicinity": "Piazza di Sant'Onofrio, 4, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8967164,
+               "lng": 12.4609553
+            }
+         },
+         {
+            "name": "Presidio Nuovo Regina Margherita",
+            "placeId": "ChIJWR2rnjlgLxMROzDwQnffICo",
+            "vicinity": "Via Roma Libera, 76, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.88615799999999,
+               "lng": 12.4695537
+            }
+         },
+         {
+            "name": "Ospedale Del Vaticano",
+            "placeId": "ChIJk_ILcq5hLxMRTXC9NUimsXM",
+            "vicinity": "Via della Conciliazione, 8, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9025937,
+               "lng": 12.4627176
+            }
+         }
+      ]
+   },
+   {
+      "name": "Campidoglio",
+      "city": "rome",
+      "location": {
+         "lat": 41.8933592,
+         "lng": 12.4828018
+      },
+      "avgRating": 4.7,
+      "totalRatings": 19252,
+      "body": "",
+      "excerpt": "undefined...",
+      "images": [
+         "https://live.staticflickr.com/65535/52483045641_2f7464c5f5.jpg",
+         "https://live.staticflickr.com/65535/52482548237_f172ce0870.jpg",
+         "https://live.staticflickr.com/65535/52482547872_b458f1451f.jpg",
+         "https://live.staticflickr.com/65535/52483591473_00e9bba8be.jpg",
+         "https://live.staticflickr.com/65535/52483315514_b01178cb58.jpg",
+         "https://live.staticflickr.com/65535/52483503620_1958d154c9.jpg",
+         "https://live.staticflickr.com/65535/52483039701_3f9eed7425.jpg",
+         "https://live.staticflickr.com/65535/52482541347_40f31c79ef.jpg",
+         "https://live.staticflickr.com/65535/52483500560_2aa74896f9.jpg",
+         "https://live.staticflickr.com/65535/52483307979_b3c0bb2b8f.jpg"
+      ],
+      "nearbyCoffeeShops": [
+         {
+            "name": "Caffè Roma",
+            "placeId": "ChIJz6eMf99hLxMRObJtGFSS1PY",
+            "vicinity": "Via del Colosseo, 31, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.891608,
+               "lng": 12.4909512
+            }
+         },
+         {
+            "name": "La Casa del Caffè Tazza d'Oro",
+            "placeId": "ChIJxY4y7lFgLxMRTCTRu-sodxk",
+            "vicinity": "Via degli Orfani, 84, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.899434,
+               "lng": 12.477407
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Roma Antica Enoteca",
+            "placeId": "ChIJXeytyrJhLxMRI-JDY4MDewg",
+            "vicinity": "Via di S. Eufemia, 5, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.896869,
+               "lng": 12.4839637
+            }
+         },
+         {
+            "name": "Roscioli Caffè Pasticceria",
+            "placeId": "ChIJZ846zUhgLxMRzdyZ615Fc4Q",
+            "vicinity": "Piazza Benedetto Cairoli, 16, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.8941457,
+               "lng": 12.4744403
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Sant' Eustachio Il Caffè",
+            "placeId": "ChIJF4C_0k9gLxMR2LL_-I4HSWU",
+            "vicinity": "Piazza di S. Eustachio, 82, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.8982901,
+               "lng": 12.475425
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJQxlbiExgLxMRdWOCUgmo--w",
+            "vicinity": "Piazza d'Aracoeli, 4, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.8941698,
+               "lng": 12.4811866
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Caffe Roma Gelateria",
+            "placeId": "ChIJceRhY1NhLxMRsgrGB0itNUE",
+            "vicinity": "Piazza di Trevi, 99, Roma",
+            "rating": 2,
+            "location": {
+               "lat": 41.900787,
+               "lng": 12.4830152
+            }
+         },
+         {
+            "name": "Trecaffè",
+            "placeId": "ChIJ0676XKthLxMRih_hbyWnTQ8",
+            "vicinity": "Via dei Due Macelli, 107, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.9033525,
+               "lng": 12.4851436
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Riccardo Taliani Banqueting",
+            "placeId": "ChIJQaU7U65hLxMRwxctNcoy-b4",
+            "vicinity": "Via Genova, 26, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.8992618,
+               "lng": 12.4922702
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Gran Caffè Rione VIII",
+            "placeId": "ChIJ-7RwMElgLxMRzDJygOyOtrE",
+            "vicinity": "Via di S. Maria del Pianto, 59, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.893531,
+               "lng": 12.4761652
+            }
+         },
+         {
+            "name": "Zer0ttoNove Café et Caffé",
+            "placeId": "ChIJndKYLU5gLxMR2zFpIIyu3Q8",
+            "vicinity": "Piazza di S. Eustachio, 50, Roma",
+            "rating": 3.9,
+            "location": {
+               "lat": 41.8984431,
+               "lng": 12.4755229
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "La Licata",
+            "placeId": "ChIJYROAc7FhLxMRPuswi72QEBw",
+            "vicinity": "Via dei Serpenti, 165, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8946536,
+               "lng": 12.4909007
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffe' Barberini",
+            "placeId": "ChIJAW6AcKlhLxMRDBL2rN6Ro2I",
+            "vicinity": "Via Barberini, 15, Roma",
+            "rating": 2.9,
+            "location": {
+               "lat": 41.904319,
+               "lng": 12.4903527
+            }
+         },
+         {
+            "name": "Gran Caffè La Caffettiera",
+            "placeId": "ChIJJbK-PVJgLxMRM1dzchSlMj4",
+            "vicinity": "P.za di Pietra, 65, Roma",
+            "rating": 4,
+            "location": {
+               "lat": 41.9000741,
+               "lng": 12.4799216
+            },
+            "priceLevel": 2
+         }
+      ],
+      "nearbyHospitals": [
+         {
+            "name": "San Giovanni Addolorata Hospital",
+            "placeId": "ChIJu2EuvcBhLxMRKtAx3I4PLl0",
+            "vicinity": "Via dell'Amba Aradam, 8, Roma",
+            "rating": 3.1,
+            "location": {
+               "lat": 41.885814,
+               "lng": 12.5022441
+            }
+         },
+         {
+            "name": "Fatebenefratelli Isola Tiberina",
+            "placeId": "ChIJcVd2wzlgLxMRzPlKO7ImW3k",
+            "vicinity": "Via di Ponte Quattro capi, 39, Roma",
+            "rating": 3.8,
+            "location": {
+               "lat": 41.8908802,
+               "lng": 12.4769801
+            }
+         },
+         {
+            "name": "Santo Spirito In Sassia Hospital",
+            "placeId": "ChIJsd__OV1gLxMRzh_Ep1m_LPU",
+            "vicinity": "Lungotevere in Sassia, 1, Roma",
+            "rating": 3.6,
+            "location": {
+               "lat": 41.9009578,
+               "lng": 12.4622703
+            }
+         },
+         {
+            "name": "Ospedale Nuovo Regina Margherita",
+            "placeId": "ChIJpwSU-qRhLxMR8cousDNGw1w",
+            "vicinity": "Viale di Trastevere, Roma",
+            "rating": 3.3,
+            "location": {
+               "lat": 41.885921,
+               "lng": 12.4707913
+            }
+         },
+         {
+            "name": "Ospedale delle Donne",
+            "placeId": "ChIJ4QYCkVNhLxMRwsaUVCXDRTQ",
+            "vicinity": "P.za di S. Giovanni in Laterano, 74, Roma",
+            "rating": 4.5,
+            "location": {
+               "lat": 41.8873003,
+               "lng": 12.5037861
+            }
+         },
+         {
+            "name": "Celio Military Hospital",
+            "placeId": "ChIJA3S6-cdhLxMRg1hkjU-Oh_M",
+            "vicinity": "Piazza Celimontana, 50, Roma",
+            "rating": 3.5,
+            "location": {
+               "lat": 41.8867943,
+               "lng": 12.4960844
+            }
+         },
+         {
+            "name": "Presidio Nuovo Regina Margherita",
+            "placeId": "ChIJWR2rnjlgLxMROzDwQnffICo",
+            "vicinity": "Via Roma Libera, 76, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.88615799999999,
+               "lng": 12.4695537
+            }
+         },
+         {
+            "name": "Ospedale Del Vaticano",
+            "placeId": "ChIJk_ILcq5hLxMRTXC9NUimsXM",
+            "vicinity": "Via della Conciliazione, 8, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9025937,
+               "lng": 12.4627176
+            }
+         }
+      ]
+   },
+   {
+      "name": "Villa Borghese",
+      "city": "rome",
+      "location": {
+         "lat": 41.9128873,
+         "lng": 12.4852085
+      },
+      "avgRating": 4.6,
+      "totalRatings": 67592,
+      "body": "Villa Borghese or Villa Borghese Pinciana ('Borghese villa on the Pincian Hill') is the villa built by the architect Flaminio Ponzio (and, after his death, finished by his assistant Giovanni Vasanzio), developing sketches by Scipione Borghese. Scipione Borghese used it as a villa suburbana, a party villa, at the edge of Rome, and to house his art collection. \nThe Galleria Borghese now occupies the villa, and the Villa Borghese gardens surround the villa.\nOther villas held by the Borghese family may also be know as Villa Borghese.",
+      "excerpt": "Villa Borghese or Villa Borghese Pinciana ('Borghese villa on the Pincian Hill') is the villa built by the architect Flaminio Ponzio (and, after his death, finished by his assistant Giovanni Vasanzio)...",
+      "images": [
+         "https://live.staticflickr.com/65535/52482541102_6f211a8816.jpg",
+         "https://live.staticflickr.com/65535/52481572449_065192b78d.jpg",
+         "https://live.staticflickr.com/65535/52455445451_049348dc5b.jpg",
+         "https://live.staticflickr.com/65535/52446613208_5e950a5964.jpg",
+         "https://live.staticflickr.com/65535/52444248914_c7e56f6e7c.jpg",
+         "https://live.staticflickr.com/65535/52439380215_620d1f93cb.jpg",
+         "https://live.staticflickr.com/65535/52439374735_385a5b38da.jpg",
+         "https://live.staticflickr.com/65535/52439188349_d5a1838e90.jpg",
+         "https://live.staticflickr.com/65535/52436918542_41772ca960.jpg",
+         "https://live.staticflickr.com/65535/52435456781_32d729d3e5.jpg"
+      ],
+      "nearbyCoffeeShops": [
+         {
+            "name": "Faro - Luminaries of Coffee",
+            "placeId": "ChIJO2OdIAlhLxMRV3acpzJo9ls",
+            "vicinity": "Via Piave, 55, Roma",
+            "rating": 4.6,
+            "location": {
+               "lat": 41.9101357,
+               "lng": 12.4984435
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "Antico Caffè Greco",
+            "placeId": "ChIJ2d0BD1VgLxMRNdZSWGk2gXQ",
+            "vicinity": "Via dei Condotti, 86, Roma",
+            "rating": 4,
+            "location": {
+               "lat": 41.9055606,
+               "lng": 12.4814639
+            },
+            "priceLevel": 4
+         },
+         {
+            "name": "Trecaffè",
+            "placeId": "ChIJ0676XKthLxMRih_hbyWnTQ8",
+            "vicinity": "Via dei Due Macelli, 107, Roma",
+            "rating": 4.7,
+            "location": {
+               "lat": 41.9033525,
+               "lng": 12.4851436
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè Lembo",
+            "placeId": "ChIJMRc24qphLxMRJYbkNpVhVps",
+            "vicinity": "Via Francesco Crispi, 95, Roma",
+            "rating": 4.1,
+            "location": {
+               "lat": 41.9053694,
+               "lng": 12.4857751
+            }
+         },
+         {
+            "name": "Gran Caffè Roma",
+            "placeId": "ChIJGwCOTKphLxMR1WpJpK83nFI",
+            "vicinity": "Via Vittorio Veneto, 24, Roma",
+            "rating": 3.2,
+            "location": {
+               "lat": 41.9048986,
+               "lng": 12.4878697
+            },
+            "priceLevel": 2
+         },
+         {
+            "name": "McCafé",
+            "placeId": "ChIJoYTJz1RgLxMRhGnbhN6HH-Q",
+            "vicinity": "Piazza di Spagna, 46, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9047271,
+               "lng": 12.4834821
+            },
+            "priceLevel": 1
+         },
+         {
+            "name": "Caffè dell'Orologio by PuroSud",
+            "placeId": "ChIJsd6nB_lgLxMR_z-hWQFBZ2I",
+            "vicinity": "Piazzale Flaminio, 34, Roma",
+            "rating": 4.2,
+            "location": {
+               "lat": 41.9117438,
+               "lng": 12.4754194
+            }
+         },
+         {
+            "name": "Moma Caffè",
+            "placeId": "ChIJ4SG56gBhLxMReyN9GAyti7Q",
+            "vicinity": "Via Lazio, 17, Roma",
+            "rating": 4.4,
+            "location": {
+               "lat": 41.9087222,
+               "lng": 12.488211
+            }
+         }
+      ],
+      "nearbyHospitals": []
+   }
+]
