@@ -10,6 +10,6 @@ const searchSchema = new Schema({
       type: Number,
       required: true
    }
-});
+}, { versionKey: false });
 
 module.exports = searchSchema;

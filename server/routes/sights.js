@@ -5,6 +5,9 @@ const axios = require('axios');
 
 const requestLogger = require('../middlewares/requestLogger');
 const urlParser = require('../helpers/urlParser');
+const Cafe = require('../models/cafe');
+const Hospital = require('../models/hospitals');
+const Sight = require('../models/sights');
 
 // mock data
 const singleCity = require('../mocks/singleCity.json');
@@ -16,12 +19,21 @@ const FLICKR_API_KEY = process.env.FLICKR_API_KEY;
 // Get sight based on cityName
 router.get('/:cityName', requestLogger, async (req, res) => {
 
-    return res.ok(singleCity);
-
     // Constants & Variables
     const cityName = req.params.cityName;
     
     try {
+        let savedSights = await Sight.find({ city: cityName }).populate(['nearbyCoffeeShops', 'nearbyHospitals']).lean();
+        
+        if (savedSights.length) {
+            savedSights = savedSights.map(sight => {
+                sight.images = sight.images.map(img => urlParser(img));
+                return sight;
+            });
+
+            return res.ok(savedSights);
+        }
+
         // Get sigths
         let sights = await getSights(cityName);
         sights = sights.map(sight => {
@@ -50,8 +62,8 @@ router.get('/:cityName', requestLogger, async (req, res) => {
         sights = sights.map(sight => {
             const history = sightsHistory.find(sHistory => sHistory.title === sight.name);
 
-            sight.body = history?.extract || '';
-            sight.excerpt = history?.extract?.slice(0, 200) + '...' || '';
+            sight.body = history?.extract;
+            sight.excerpt = history?.extract ? history.extract.slice(0, 200) + '...' : '';
 
             return sight;
         });
@@ -61,45 +73,72 @@ router.get('/:cityName', requestLogger, async (req, res) => {
         const imagesForPlaces = (await Promise.all(sightsImagePromises)).map(img => img.data.photos.photo);
 
         sights = sights.map((sight, idx) => {
-            const newImages = imagesForPlaces[idx].map(img => urlParser(img));
-            sight.images = newImages;
+            sight.images = imagesForPlaces[idx];
             return sight;
         });
 
         // Get cafes per sight
         let sightsCafes = (await Promise.all(sights.map(sight => getCafes(cityName, sight.location.lat, sight.location.lng)))).map(sc => sc.data.results);
+        const cafeSetsToSave = [];
         sightsCafes = sightsCafes.map(sightCafes => {
-            return sightCafes.map(sc => {
+            const tempCafes = sightCafes.map(sc => {
                 return {
                     name: sc.name,
                     placeId: sc.place_id,
                     vicinity: sc.vicinity,
-                    rating: sc.rating,
+                    rating: sc.rating || 0,
                     location: sc.geometry.location,
-                    priceLevel: sc.price_level
+                    priceLevel: sc.price_level || 0
                 }
             });
+
+            cafeSetsToSave.push(Cafe.insertMany(tempCafes));
+
+            return tempCafes;
         });
+
+        const savedCafes = [];
+        for (const cafesSet of cafeSetsToSave) {
+            const cafes = await cafesSet;
+            savedCafes.push(cafes);
+        }
 
         // Get hospitals per sight
         let sightsHospitals = (await Promise.all(sights.map(sight => getHospitals(cityName, sight.location.lat, sight.location.lng)))).map(sh => sh.data.results);
+        const hospitalSetsToSave = [];
         sightsHospitals = sightsHospitals.map(sightHospitals => {
-            return sightHospitals.map(sh => {
+            const tempHospitals = sightHospitals.map(sh => {
                 return {
                     name: sh.name,
                     placeId: sh.place_id,
                     vicinity: sh.vicinity,
-                    rating: sh.rating,
+                    rating: sh.rating || 0,
                     location: sh.geometry.location,
-                    priceLevel: sh.price_level
+                    priceLevel: sh.price_level || 0
                 }
             });
+
+            hospitalSetsToSave.push(Hospital.insertMany(tempHospitals));
+
+            return tempHospitals;
         });
 
-        // start preparing response
+        const savedHospitals = [];
+        for (const hospitalSet of hospitalSetsToSave) {
+            const hospitals = await hospitalSet;
+            savedHospitals.push(hospitals);
+        }
+
         sights = sights.map((sight, idx) => {
-            sight.nearbyCoffeeShops = sightsCafes[idx];
-            sight.nearbyHospitals = sightsHospitals[idx];
+            sight.nearbyCoffeeShops = savedCafes[idx];
+            sight.nearbyHospitals = savedHospitals[idx];
+            return sight;
+        });
+
+        await Sight.insertMany(sights);
+
+        sights = sights.map(sight => {
+            sight.images = sight.images.map(img => urlParser(img));
             return sight;
         });
 
@@ -126,7 +165,7 @@ function getSightsHistory(sightName) {
 }
 
 function getCafes(cityName, lat, lng) {
-    const cafesFetchURL = `https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=${GOOGLE_MAPS_API_KEY}&keyword=${cityName}&location=${lat},${lng}&type=cafe&radius=1000`;
+    const cafesFetchURL = `https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=${GOOGLE_MAPS_API_KEY}&keyword=${cityName}&location=${lat},${lng}&type=cafe&radius=500`;
     return axios.get(cafesFetchURL);
 }
 
