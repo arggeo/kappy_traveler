@@ -1,13 +1,15 @@
-require('dotenv').config();
 const express = require('express');
 const router = express.Router();
 const axios = require('axios');
+const findTopLocations = require('../helpers/findTopLocations');
+
 
 const requestLogger = require('../middlewares/requestLogger');
 
 // mock data
 const singleSight = require('../mocks/singleSight.json');
 const topSights = require('../mocks/topSights.json');
+const locationPlaces = require('../mocks/locationPlaces.json');
 
 // Get sight based on cityName
 router.get('/:cityName', requestLogger, async (req, res) => {
@@ -21,6 +23,8 @@ router.get('/:cityName', requestLogger, async (req, res) => {
         const coordinates = responseLocation.data.results[0].geometry.location;
         //console.log(coordinates);
 
+        const topLocations = findTopLocations(locationPlaces);
+        //console.log(topLocations);
         res.ok(singleSight);
     } catch (error) {
         console.log(error);
@@ -29,7 +33,7 @@ router.get('/:cityName', requestLogger, async (req, res) => {
 });
 
 router.get('/', (req, res) => {
-    res.ok(JSON.parse(topSights));
+    res.ok(topSights);
 });
 
-module.exports = router;
+module.exports=router;
