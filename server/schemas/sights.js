@@ -1,29 +1,27 @@
-const mongoose = requrire('mongoose');
+const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 const sightSchema = new Schema({
    name: {
       type: String,
       required: true,
-      maxLength: 50,
-      minLength: 10
+      maxLength: 150
    },
    excerpt: {
       type: String,
-      required: true,
-      maxLength: 150,
-      minLength: 50
+      required: false,
+      maxLength: 210,
    },
    body: {
       type: String,
-      required: true
+      required: false
    },
    images: [{
       id: {
          type: String,
          required: true
       },
-      serverId: {
+      server: {
          type: String,
          required: true
       },
@@ -37,39 +35,29 @@ const sightSchema = new Schema({
          type: Number,
          required: true
       },
-      long: {
+      lng: {
          type: Number,
          required: true
       }
    },
-   nearbyCoffeeShops: {
-      type: [{
-         cafeId: {
-            type: Schema.Types.ObjectId,
-            ref: 'Cafe',
-            required: true
-         },
-         name: {
-            type: String,
-            required: True
-         }
-      }],
-      required: false
-   },
-   nearbyHospitals: {
-      type: [{
-         hospitalId: {
-            type: Schema.Types.ObjectId,
-            ref: 'Hospital',
-            required: true
-         },
-         name: {
-            type: String,
-            required: True
-         }
-      }],
-      required: false
+   nearbyCoffeeShops: [
+      {
+         type: Schema.Types.ObjectId,
+         ref: 'Cafe',
+         required: true
+      }
+   ],
+   nearbyHospitals: [
+      {
+         type: Schema.Types.ObjectId,
+         ref: 'Hospital',
+         required: true
+      }
+   ],
+   city: {
+      type: String,
+      required: true
    }
-});
+}, { versionKey: false });
 
 module.exports = sightSchema;

@@ -1,7 +1,7 @@
 const { Schema } = require('mongoose');
 
 const cafeSchema = new Schema({
-   place: {
+   placeId: {
       type: String,
       required: true
    },
@@ -9,21 +9,17 @@ const cafeSchema = new Schema({
       type: String,
       require: true
    },
-   photoReference: {
-      type: String,
-      required: false
-   },
    location: {
       lat: {
          type: Number,
          required: true
       },
-      long: {
+      lng: {
          type: Number,
          required: true
       }
    },
-   address: {
+   vicinity: {
       type: String,
       required: true
    },
@@ -34,8 +30,10 @@ const cafeSchema = new Schema({
    priceLevel: {
       type: Number,
       default: 0
-   },
-   types: [String]
+   }
+}, {
+   collection: 'cafes',
+   versionKey: false
 });
 
 module.exports = cafeSchema;
