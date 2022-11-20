@@ -5,6 +5,7 @@ const axios = require('axios');
 
 const requestLogger = require('../middlewares/requestLogger');
 const urlParser = require('../helpers/urlParser');
+const findTopLocations = require('../helpers/findTopLocations');
 const Cafe = require('../models/cafe');
 const Hospital = require('../models/hospitals');
 const Sight = require('../models/sights');
@@ -21,7 +22,7 @@ router.get('/:cityName', requestLogger, async (req, res) => {
 
     // Constants & Variables
     const cityName = req.params.cityName;
-    
+    console.log('hello1');
     try {
         let savedSights = await Sight.find({ city: cityName }).populate(['nearbyCoffeeShops', 'nearbyHospitals']).lean();
         
@@ -31,6 +32,7 @@ router.get('/:cityName', requestLogger, async (req, res) => {
                 return sight;
             });
 
+            //const topSights = findTopLocations(savedSights);
             return res.ok(savedSights);
         }
 
@@ -100,7 +102,8 @@ router.get('/:cityName', requestLogger, async (req, res) => {
         const savedCafes = [];
         for (const cafesSet of cafeSetsToSave) {
             const cafes = await cafesSet;
-            savedCafes.push(cafes);
+            const topcafes = findTopLocations(cafes);
+            savedCafes.push(topcafes);
         }
 
         // Get hospitals per sight
