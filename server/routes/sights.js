@@ -22,7 +22,7 @@ router.get('/:cityName', requestLogger, async (req, res) => {
 
     // Constants & Variables
     const cityName = req.params.cityName;
-    console.log('hello1');
+    console.log("Starting routing sights......");
     try {
         let savedSights = await Sight.find({ city: cityName }).populate(['nearbyCoffeeShops', 'nearbyHospitals']).lean();
         
@@ -47,6 +47,9 @@ router.get('/:cityName', requestLogger, async (req, res) => {
                 totalRatings: sight.user_ratings_total
             };
         });
+
+        sights = findTopLocations(sights);
+        //console.log("top sights are: ",sigthts);
 
         if (!sights.length) {
             return res.error('No sights found for selected location');
@@ -102,8 +105,7 @@ router.get('/:cityName', requestLogger, async (req, res) => {
         const savedCafes = [];
         for (const cafesSet of cafeSetsToSave) {
             const cafes = await cafesSet;
-            const topcafes = findTopLocations(cafes);
-            savedCafes.push(topcafes);
+            savedCafes.push(cafes);
         }
 
         // Get hospitals per sight
