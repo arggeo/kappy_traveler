@@ -1,12 +1,22 @@
 require('dotenv').config({path:'../../../.env'})
-const axios = require('axios');
+import axios from 'axios';
 
 const GOOGLE_MAPS_API_KEY = process.env.GOOGLE_MAPS_API_KEY;
 
 const getSights = async function (cityName) {
     const sightsFetchURL = `https://maps.googleapis.com/maps/api/place/textsearch/json?query=tourist+attractions+in+${cityName}&key=${GOOGLE_MAPS_API_KEY}`;
-    const sightsResponse = await axios.get(sightsFetchURL);
-    return sightsResponse.data.results;
+
+    try {
+        const res = await axios.get(sightsFetchURL);
+    
+        if (res.status !== 200) {
+            throw new Error('Data not retrieved');
+        }
+
+        return res;
+    } catch (e) {
+        console.log(e);
+    }
 }
 
-module.exports = getSights;
+export default getSights;

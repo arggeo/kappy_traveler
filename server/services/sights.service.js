@@ -29,6 +29,10 @@ async function getSights(cityName){
 
         // return sights
         let sights  = await retSights(cityName);
+
+        if (!sights || !sights.length) {
+            return [];
+        }
         
         // return history per sight
         let sightsHistory = await retSightsHistory(sights);

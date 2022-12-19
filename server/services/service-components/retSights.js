@@ -1,8 +1,9 @@
 const getSightsAPI = require('../service-components/API/getSights');
 
-const retSights = async function (cityName)
-{
-    let sights = await getSightsAPI(cityName);
+const retSights = async function (cityName) {
+    try {
+        let sights = await getSightsAPI(cityName);
+
         sights = sights.map(sight => {
             return {
                 name: sight.name,
@@ -14,5 +15,8 @@ const retSights = async function (cityName)
         });
 
         return sights;
+    } catch (e) {
+        console.log(e);
+    }
 }
 module.exports = retSights;
