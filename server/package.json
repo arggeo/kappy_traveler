@@ -4,8 +4,9 @@
   "description": "Tourist guide for elderly people",
   "main": "app.js",
   "scripts": {
+    "start": "app.js",
     "start-dev": "nodemon app.js",
-    "test": "jest"
+    "test": "vitest --run --reporter verbose"
   },
   "repository": {
     "type": "git",
@@ -29,8 +30,8 @@
     "mongoose": "^6.7.0"
   },
   "devDependencies": {
-    "jest": "^29.2.2",
     "jsdoc": "^3.6.11",
-    "nodemon": "^2.0.20"
+    "nodemon": "^2.0.20",
+    "vitest": "^0.25.7"
   }
 }
