@@ -1,5 +1,4 @@
-const mongoose = require('mongoose');
-const Schema = mongoose.Schema;
+import { Schema} from "mongoose";
 
 const sightSchema = new Schema({
    name: {
@@ -60,4 +59,4 @@ const sightSchema = new Schema({
    }
 }, { versionKey: false });
 
-module.exports = sightSchema;
+export default sightSchema;

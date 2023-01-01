@@ -1,4 +1,4 @@
-const getSightsHistoryAPI = require('../service-components/API/getSightsHistory');
+import getSightsHistoryAPI from '../service-components/API/getSightsHistory.js';
 
 const retsightsHistory = async function (sights) {
     let sightsHistory = (await Promise.all(sights.map(sight => getSightsHistoryAPI(sight.name)))).map(sh => {
@@ -11,4 +11,4 @@ const retsightsHistory = async function (sights) {
     return sightsHistory;
 }
 
-module.exports = retsightsHistory;
+export default retsightsHistory;

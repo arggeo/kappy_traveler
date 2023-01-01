@@ -1,6 +1,5 @@
-const getCafesAPI = require('../service-components/API/getCafes');
-
-const Cafe = require('../../models/cafe');
+import getCafesAPI from '../service-components/API/getCafes.js';
+import Cafe from '../../models/cafe.js';
 
 const retSightsCafes = async function (sights, cityName) {
     let sightsCafes = (await Promise.all(sights.map(sight => getCafesAPI(cityName, sight.location.lat, sight.location.lng)))).map(sc => sc.data.results);
@@ -32,4 +31,4 @@ const retSightsCafes = async function (sights, cityName) {
     return savedCafes;
 }
 
-module.exports = retSightsCafes;
+export default retSightsCafes;

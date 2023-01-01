@@ -1,20 +1,15 @@
-const { test } = require('vitest');
-const sights = require('../services/sights.service');
+// const { test } = require('vitest');
+import { getSights, getTopSights } from '../services/sights.service.js'
 
-async function get(req, res) {
+export async function get(req, res) {
     const cityName = req.params.cityName
     try {
-        res.ok((await sights.getSights(cityName))?.data?.results);
+        res.ok((await getSights(cityName))?.data?.results);
     } catch (error) {    
         res.error(error.message);
     }   
 }
 
-function getDefaultRoute(req, res) {
-    res.ok(sights.getTopSights());
+export function getDefaultRoute(req, res) {
+    res.ok(getTopSights());
 }
-
-module.exports = {
-    get,
-    getDefaultRoute
-};

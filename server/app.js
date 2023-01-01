@@ -1,12 +1,13 @@
 // package imports
-require('dotenv').config();
-const express = require('express');
+import * as dotenv from 'dotenv';
+dotenv.config();
+import express from 'express';
 const app = express();
 
 // custom imports
-const responseFormatter = require('./middlewares/response');
-const sightsRoutes = require('./routes/sights');
-const dbConnect = require('./helpers/dbConnection');
+import responseFormatter from './middlewares/response.js';
+import sightsRoutes from './routes/sights.js';
+import dbConnect from './helpers/dbConnection.js';
 
 // constants & variables
 const port = process.env.PORT;

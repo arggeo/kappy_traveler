@@ -1,4 +1,4 @@
-const getSightsAPI = require('../service-components/API/getSights');
+import getSightsAPI from '../service-components/API/getSights.js';
 
 const retSights = async function (cityName) {
     try {
@@ -19,4 +19,4 @@ const retSights = async function (cityName) {
         console.log(e);
     }
 }
-module.exports = retSights;
+export default retSights;

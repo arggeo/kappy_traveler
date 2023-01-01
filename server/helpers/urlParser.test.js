@@ -1,5 +1,5 @@
 import { it, expect } from 'vitest';
-import urlParser from './urlParser';
+import urlParser from './urlParser.js';
 
 it('should return Flicker image url', () => {
    const params = {

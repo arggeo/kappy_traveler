@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import JsonResponse from './Response';
+import JsonResponse from './Response.js';
 
 describe('ok()', () => {
    it('should return success response object', () => {

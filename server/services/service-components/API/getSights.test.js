@@ -1,4 +1,5 @@
-require('dotenv').config();
+import * as dotenv from 'dotenv';
+dotenv.config();
 import { it, expect, vi } from 'vitest';
 import getSights from './getSights';
 import axios from 'axios';

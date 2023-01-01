@@ -1,6 +1,6 @@
-const { model } = require('mongoose');
-const cafeSchema = require('../schemas/cafe');
+import { model } from 'mongoose';
+import cafeSchema from '../schemas/cafe.js';
 
 const Cafe = model('Cafe', cafeSchema);
 
-module.exports = Cafe;
+export default Cafe;

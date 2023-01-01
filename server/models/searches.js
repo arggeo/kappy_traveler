@@ -1,6 +1,6 @@
-const { model } = require('mongoose');
-const searchSchema = require('../schemas/searches');
+import { model } from 'mongoose';
+import searchSchema from '../schemas/searches.js';
 
 const Search = model('Search', searchSchema);
 
-module.exports = Search;
+export default Search;

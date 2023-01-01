@@ -1,5 +1,6 @@
-require('dotenv').config({path:'../../../.env'})
-const axios = require('axios');
+import * as dotenv from 'dotenv';
+dotenv.config();
+import axios from 'axios';
 
 const GOOGLE_MAPS_API_KEY = process.env.GOOGLE_MAPS_API_KEY;
 
@@ -8,4 +9,4 @@ const getCafes = function (cityName, lat, lng) {
     return axios.get(cafesFetchURL);
 }
 
-module.exports = getCafes;
+export default getCafes;

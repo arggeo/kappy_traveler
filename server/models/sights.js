@@ -1,6 +1,6 @@
-const { model } = require('mongoose');
-const sightSchema = require('../schemas/sights');
+import { model } from 'mongoose';
+import sightSchema from '../schemas/sights.js';
 
 const Sight = model('Sight', sightSchema);
 
-module.exports = Sight;
+export default Sight;

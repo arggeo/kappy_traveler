@@ -1,5 +1,4 @@
-const mongoose = require('mongoose');
-const Schema = mongoose.Schema;
+import { Schema } from "mongoose";
 
 const searchSchema = new Schema({
    place: {
@@ -12,4 +11,4 @@ const searchSchema = new Schema({
    }
 }, { versionKey: false });
 
-module.exports = searchSchema;
+export default searchSchema;
