@@ -1,6 +1,6 @@
-const { model } = require('mongoose');
-const hospitalSchema = require('../schemas/hospitals');
+import { model } from 'mongoose';
+import hospitalSchema from '../schemas/hospitals.js';
 
 const Hospital = model('Hospital', hospitalSchema);
 
-module.exports = Hospital;
+export default Hospital;

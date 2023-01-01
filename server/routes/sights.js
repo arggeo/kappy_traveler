@@ -1,14 +1,14 @@
-const express = require('express');
-const router = express.Router();
+import { Router } from 'express';
+const router = Router();
 
-const requestLogger = require('../middlewares/requestLogger');
+import requestLogger from '../middlewares/requestLogger.js';
 
-const sightsController = require('../controllers/sights.controller');
+import { get, getDefaultRoute } from '../controllers/sights.controller.js';
 
 // Get sight based on cityName
-router.get('/:cityName', requestLogger, sightsController.get);
+router.get('/:cityName', requestLogger, get);
 
 // Get top sights on default route
-router.get('/', sightsController.getDefaultRoute);
+router.get('/', getDefaultRoute);
 
-module.exports = router;
+export default router;

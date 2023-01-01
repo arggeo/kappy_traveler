@@ -1,6 +1,5 @@
-const getHospitalsAPI = require('../service-components/API/getHospitals');
-
-const Hospital = require('../../models/hospitals');
+import getHospitalsAPI from '../service-components/API/getHospitals.js';
+import Hospital from '../../models/hospitals.js';
 
 const retSightsHospital = async function (sights, cityName) {
     let sightsHospitals = (await Promise.all(sights.map(sight => getHospitalsAPI(cityName, sight.location.lat, sight.location.lng)))).map(sh => sh.data.results);
@@ -32,4 +31,4 @@ const retSightsHospital = async function (sights, cityName) {
     return savedHospitals;
 }
 
-module.exports = retSightsHospital;
+export default retSightsHospital;

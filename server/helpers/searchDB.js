@@ -1,5 +1,5 @@
-const urlParser = require('./urlParser');
-const Sight = require('../models/sights');
+import urlParser from './urlParser.js';
+import Sight from '../models/sights.js';
 
 const searchDB = async function (cityName) {
     let savedSights = await Sight.find({ city: cityName }).populate(['nearbyCoffeeShops', 'nearbyHospitals']).lean();
@@ -9,4 +9,5 @@ const searchDB = async function (cityName) {
     });
     return savedSights;
 }
-module.exports = searchDB;
+
+export default searchDB;

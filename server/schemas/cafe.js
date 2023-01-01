@@ -1,4 +1,4 @@
-const { Schema } = require('mongoose');
+import { Schema } from "mongoose";
 
 const cafeSchema = new Schema({
    placeId: {
@@ -36,4 +36,4 @@ const cafeSchema = new Schema({
    versionKey: false
 });
 
-module.exports = cafeSchema;
+export default cafeSchema;

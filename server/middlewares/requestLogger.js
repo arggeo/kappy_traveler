@@ -1,4 +1,4 @@
-const Search = require('../models/searches');
+import Search from '../models/searches.js';
 
 /**
  * Middleware to log request
@@ -29,4 +29,4 @@ const requestLogger = async (req, res, next) => {
     }
 };
 
-module.exports = requestLogger;
+export default requestLogger;

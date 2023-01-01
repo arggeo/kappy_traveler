@@ -4,4 +4,4 @@ const urlParser = function (params) {
     return `https://live.staticflickr.com/${server}/${id}_${secret}.jpg`;
 };
 
-module.exports = urlParser;
+export default urlParser;

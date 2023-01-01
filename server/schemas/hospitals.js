@@ -1,4 +1,4 @@
-const { Schema } = require('mongoose');
+import { Schema } from "mongoose";
 
 const hospitalSchema = new Schema({
    placeId: {
@@ -33,4 +33,4 @@ const hospitalSchema = new Schema({
    }
 }, { versionKey: false });
 
-module.exports = hospitalSchema;
+export default hospitalSchema;

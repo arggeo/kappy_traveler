@@ -1,6 +1,7 @@
-require('dotenv').config();
+import * as dotenv from 'dotenv';
+dotenv.config();
 import { it, expect, vi } from 'vitest';
-import getHospitals from './getHospitals';
+import getHospitals from './getHospitals.js';
 import axios from 'axios';
 
 vi.mock('axios');

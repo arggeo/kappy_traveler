@@ -27,4 +27,4 @@ class JsonResponse {
    }
 }
 
-module.exports = JsonResponse;
+export default JsonResponse;

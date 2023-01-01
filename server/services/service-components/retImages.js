@@ -1,4 +1,4 @@
-const flickrRequestUrlAPI = require('../service-components/API/flickrRequestUrl');
+import flickrRequestUrlAPI from '../service-components/API/flickrRequestUrl.js';
 
 const retImages = async function (sights) {
     const sightsImagePromises = sights.map(sight => flickrRequestUrlAPI(sight.location.lat, sight.location.lng));
@@ -7,4 +7,4 @@ const retImages = async function (sights) {
     return imagesForPlaces;
 }
 
-module.exports = retImages;
+export default retImages;

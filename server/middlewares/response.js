@@ -1,4 +1,4 @@
-const JsonResponse = require('../helpers/Response');
+import JsonResponse from "../helpers/Response.js";
 
 /**
  * Middleware to format response object with additional functions
@@ -36,4 +36,4 @@ const responseFormatter = (_, res, next) => {
    next();
 };
 
-module.exports = responseFormatter;
+export default responseFormatter;

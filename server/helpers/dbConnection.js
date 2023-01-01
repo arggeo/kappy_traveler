@@ -1,6 +1,7 @@
 // Package & Custom imports
-require('dotenv').config({path:'../.env'});
-const mongoose = require('mongoose');
+import * as dotenv from 'dotenv';
+dotenv.config();
+import mongoose from 'mongoose';
 
 async function dbConnection(app){
     const dbUser = process.env.MONGO_USERNAME;
@@ -34,4 +35,4 @@ async function dbConnection(app){
     })
 };
 
-module.exports = dbConnection;
+export default dbConnection;

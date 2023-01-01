@@ -1,25 +1,26 @@
 // Package imports
-require('dotenv').config({path:'../.env'})
+import * as dotenv from 'dotenv';
+dotenv.config();
 
 // model imports
-const Sight = require('../models/sights');
+import Sight from '../models/sights.js';
 
 // custom imports
-const urlParser = require('../helpers/urlParser');
-const searchDB = require('../helpers/searchDB');
+import urlParser from '../helpers/urlParser.js';
+import searchDB from '../helpers/searchDB.js';
 
-const retImages = require('../services/service-components/retImages');
-const retSights = require('../services/service-components/retSights');
-const retSightsHistory = require('../services/service-components/retSightsHistory');
-const retSightsCafes = require('../services/service-components/retSightsCafes');
-const retSightsHospitals = require('../services/service-components/retSightsHospitals');
+import retImages from '../services/service-components/retImages.js';
+import retSights from '../services/service-components/retSights.js';
+import retSightsHistory from '../services/service-components/retSightsHistory.js';
+import retSightsCafes from '../services/service-components/retSightsCafes.js';
+import retSightsHospitals from '../services/service-components/retSightsHospitals.js';
 
 // mock data
-const singleCity = require('../mocks/singleCity.json');
-const topSights = require('../mocks/topSights.json');
+// const singleCity = require('../mocks/singleCity.json');
+const topSights = {};
 
 
-async function getSights(cityName){
+export async function getSights(cityName){
 
     try {
         // check for duplicate sights in database, if stored serve those
@@ -82,11 +83,6 @@ async function getSights(cityName){
     }
 }
 
-function getTopSights() {
+export function getTopSights() {
    return topSights;
 }
-
-module.exports = {
-    getSights,
-    getTopSights
- } 

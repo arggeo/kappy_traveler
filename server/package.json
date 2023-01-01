@@ -8,6 +8,7 @@
     "start-dev": "nodemon app.js",
     "test": "vitest --run --reporter verbose"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/arggeo/kappy_traveler.git"
