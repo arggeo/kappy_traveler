@@ -11,5 +11,11 @@ export async function get(req, res) {
 }
 
 export function getDefaultRoute(req, res) {
-    res.ok(getTopSights());
+    getTopSights()
+        .then(sights => {
+            res.ok(sights)
+        })
+        .catch(err => {
+            res.error(err.message);
+        });
 }
