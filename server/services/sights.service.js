@@ -4,6 +4,7 @@ dotenv.config();
 
 // model imports
 import Sight from '../models/sights.js';
+import Search from '../models/searches.js';
 
 // custom imports
 import urlParser from '../helpers/urlParser.js';
@@ -17,7 +18,7 @@ import retSightsHospitals from '../services/service-components/retSightsHospital
 
 // mock data
 // const singleCity = require('../mocks/singleCity.json');
-const topSights = {};
+// const topSights = {};
 
 
 export async function getSights(cityName){
@@ -83,6 +84,17 @@ export async function getSights(cityName){
     }
 }
 
-export function getTopSights() {
+export async function getTopSights() {
+   const fetchedSearches = await Search.find({}, { _id: 0, place: 1 }).sort({ count: -1 }).lean();
+   const topThreePlaces = fetchedSearches.slice(0, 5).map(pObj => pObj.place);
+
+   console.log(topThreePlaces);
+
+   const topSights = [];
+   for (const place of topThreePlaces) {
+      const placeSights = await searchDB(place);
+      topSights.push(...placeSights.slice(0, 3));
+   }
+
    return topSights;
 }
